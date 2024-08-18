@@ -27,7 +27,7 @@ Product: ManageWise
 ### **Integrantes:** 
 * Estefano Oscar Jaque Peña - u202225466 
 * Diego Rolin Acuña Tomas - u202221436
-* Jose KBRAZO Antonio Alejo Cardenas - u202122484
+* Jose Antonio Alejo Cardenas - u202122484
 * John Telesforo Arevalo Meza - u202117377
 * Valentino Sandoval Paiva - u20211a962
 
