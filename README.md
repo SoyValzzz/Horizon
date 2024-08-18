@@ -133,6 +133,10 @@ Los involucrados en el uso de nuestra aplicación son los miembros de trabajo y 
 
 El problema afecta a todos los miembros de la organización, pues cuando no puedes cumplir un proyecto genera retrasos, pérdidas monetarias, despidos, pérdida de la confianza en la empresa, entre otros. Por supuesto, las consecuencias dependen de la importancia del proyecto, sin embargo para todos la probabilidad de éxito aumenta cuando el PM puede cumplir con su deber con más eficiencia.
 
+- _¿Quién utilizará este producto?_
+
+Los miembros del equipo de trabajo del proyecto para ingresar sus avances o cambios, para notificar que cumplieron sus tareas, para mandar notificaciones sobre problemas encontrados o errores sin solución aparente, entre otros. Los líderes de los equipos o el gerente del proyecto podrán ver el avance del proyecto, recibir notificaciones si una tarea no se cumplió en sus plazos, la eficiencia de los miembros del equipo y comunicar al equipo los cambios de responsabilidades para responder a un problema.
+
 ###### Why?
 
 - _¿Por qué ocurre el problema?_
