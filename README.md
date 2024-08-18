@@ -78,7 +78,7 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-* Estefano Oscar Jaque Peña - U202225466
+* Estefano Oscar Jaque Peña - U202225466  
 ![alt text](image.png)  
 Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software, una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión de
 información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores en el área de la Ingeniería de Software.
