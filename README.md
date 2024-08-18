@@ -7,7 +7,7 @@ Product: ManageWise
 ## 5to ciclo  
 ## Desarrollo de Aplicaciones Open Source  
 
-### **Sección:** asdadsa
+### **Sección:** WS53
 ### **Profesor:** dsdfsdfsd
 ### Informe de Trabajo Final  
 
