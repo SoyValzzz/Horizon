@@ -51,6 +51,10 @@ Product: ManageWise
 ### 1.1.2. Perfiles de integrantes del equipo
 ### 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+Actualmente los entornos están caracterizados por una alta competencia e incertidumbre, las organizaciones se enfocan en realizar proyectos de software orientados a objetivos estratégicos. 
+La gestión de proyectos requiere la aplicación de conocimientos, herramientas, técnicas, métodos y habilidades a las actividades del proyecto para lograr el éxito. 
+En consecuencia, un project manager capacitado es pieza clave en la competitividad de una empresa. 
+Sin embargo, aun con sus conocimientos le falta una herramienta que facilite la observación del avance del proyecto que pueda ayudar a reducir los fracasos de los proyectos y mejorar el rendimiento de la organización del proyecto.
 ### 1.2.2 Lean UX Process
 ### 1.2.2.1. Lean UX Problem Statements
 ### 1.2.2.2. Lean UX Assumptions
