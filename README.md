@@ -193,7 +193,7 @@ Sabremos que hemos tenido exito cuando veamos un aumento del 35% en la productiv
 
 ### 1.2.2.4. Lean UX Canvas
 
-![Lean UX Canvas](https://media.discordapp.net/attachments/1257109045723271192/1274792079872098394/image.png?ex=66c38a24&is=66c238a4&hm=2ac69afb7796c282f9ce4839fa72fa6ba57c101c6afa3c0998d134358f8caa5a&=&format=webp&quality=lossless&width=1052&height=525)
+![Lean UX Canvas](https://cdn.discordapp.com/attachments/1257109045723271192/1274792875569184899/Lean_UX_Canvas_Template_1.jpg?ex=66c38ae2&is=66c23962&hm=c539fe2d2578a02c0cec55ed721a37158883ab41b8954677a5bacc2f901ca6af&)
 
 ### 1.3. Segmentos objetivo
 
