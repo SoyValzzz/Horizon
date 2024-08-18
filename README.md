@@ -78,6 +78,11 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+* Estefano Oscar Jaque Peña - U202225466
+![alt text](image.png)  
+Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software, una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión de
+información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores en el área de la Ingeniería de Software.
+
 ### 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
@@ -121,22 +126,22 @@ Business Outcomes:
 -	Reducción de obstáculos relacionados con la falta de herramientas de gestión de proyectos e iniciativas. 
 
 User Outcomes:
-1.	¿Quién es el usuario?  
+1)	¿Quién es el usuario?  
 Los usuarios son gerentes de proyectos de software, equipos de desarrollo de software y líderes empresariales de empresas emergentes en el ámbito del desarrollo de software.
 
-2.	¿Dónde encaja nuestra empresa en su trabajo o vida?  
+2)	¿Dónde encaja nuestra empresa en su trabajo o vida?  
 Nuestra empresa se posiciona como proveedora de herramientas de gestión de proyectos e iniciativas para facilitar el desarrollo de software en empresas emergentes.
 
-3.	¿Qué problemas tiene nuestra empresa?  
+3)	¿Qué problemas tiene nuestra empresa?  
 Nos enfrentamos a la falta de herramientas especializadas que se adapten a las necesidades únicas de las empresas emergentes de desarrollo de software, lo que dificulta la gestión eficiente de proyectos y recursos.
 
-4.	¿Cuándo y cómo es nuestra empresa?  
+4)	¿Cuándo y cómo es nuestra empresa?  
 Nuestra empresa está en una etapa inicial, ofreciendo soluciones ágiles y flexibles que se ajustan a las demandas cambiantes del mercado de desarrollo de software.
 
-5.	¿Qué características son importantes?  
+5)	¿Qué características son importantes?  
 Las características importantes incluyen una interfaz intuitiva y fácil de usar, capacidades para la gestión de tareas y asignación de recursos, así como integraciones con herramientas populares de desarrollo de software.
 
-6.	¿Cómo debe verse nuestra empresa y comportarse?  
+6)	¿Cómo debe verse nuestra empresa y comportarse?  
 Nuestra empresa debe presentarse como un aliado confiable que simplifica y optimiza la gestión de proyectos de desarrollo de software, siendo receptiva a las sugerencias de los usuarios y comprometida con la innovación y la mejora continua.
 
 ### 1.2.2.3. Lean UX Hypothesis Statements
