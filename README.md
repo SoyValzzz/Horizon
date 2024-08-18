@@ -98,6 +98,6 @@ Sin embargo, aun con sus conocimientos le falta una herramienta que facilite la 
 
 ### 1.2.2.4. Lean UX Canvas
 
-![Lean UX Canvas](./img/canvas.jpg "Lean UX Canvas")
+![Lean UX Canvas](https://cdn.discordapp.com/attachments/1274759574087270442/1274759632862183466/canvas.jpg?ex=66c36bec&is=66c21a6c&hm=91ba855d5cfa8ea83341bf9045acff0271112f354010f81b3c9509c65cb454a7&)
 
 ### 1.3. Segmentos objetivo
