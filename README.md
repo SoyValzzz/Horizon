@@ -146,3 +146,13 @@ Nuestra empresa debe presentarse como un aliado confiable que simplifica y optim
 ![Lean UX Canvas](https://cdn.discordapp.com/attachments/1274759574087270442/1274759632862183466/canvas.jpg?ex=66c36bec&is=66c21a6c&hm=91ba855d5cfa8ea83341bf9045acff0271112f354010f81b3c9509c65cb454a7&)
 
 ### 1.3. Segmentos objetivo
+
+**Empresa de desarrollo de software en crecimiento:**  
+Descripción: Empresas desde startups innovadoras hasta organizaciones establecidas con rápido crecimiento. Se distinguen por su necesidad de herramientas que optimicen sus procesos de desarrollo y gestión de proyectos.  
+Necesidades: Buscan soluciones que les permitan gestionar proyectos de manera eficiente y mejorar la coordinación del equipo.  
+Aspiraciones: Quieren liderar en su sector, innovar constantemente, y ofrecer productos de software de alta calidad.   
+
+**Equipo de Desarrollo de Software:**  
+Descripción: Equipos dentro de empresas de TI dedicados a la creación y mejora de software. 
+Necesidades: Necesitan plataformas que faciliten la colaboración, gestionen el flujo de trabajo, y ofrezcan visibilidad sobre el progreso del mismo. Además de poder supervisar el trabajo de todos los miembros.  
+Aspiraciones: Aspiran a culminar el proyecto de la mejor forma y en el menor tiempo posible.  
