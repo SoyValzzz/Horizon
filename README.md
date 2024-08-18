@@ -24,7 +24,7 @@ Product: ManageWise
 
 ### "ManageWise"
 
-### **Integrantes:**  ACTUALIZADO
+### **Integrantes:** 
 * Estefano Oscar Jaque Peña - u202225466 
 * Diego Rolin Acuña Tomas - u202221436
 * Jose KBRAZO Antonio Alejo Cardenas - u202122484
