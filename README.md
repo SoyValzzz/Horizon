@@ -97,14 +97,23 @@ En segundo lugar, tenemos la herramienta Jira Software, fue desarrollada por la 
 ### 1.2.2.2. Lean UX Assumptions
 Assumptions:
 1)	Creo que mis clientes necesitan una forma más eficiente de gestionar proyectos e iniciativas dentro de sus empresas emergentes de desarrollo de software.
+
 2)	Estas necesidades se pueden resolver con una herramienta de gestión de proyectos ágil y adaptable que se integre fácilmente con los flujos de trabajo existentes.
+
 3)	Mis clientes iniciales serán startups de tecnología que buscan mejorar la eficiencia y la colaboración en sus equipos de desarrollo.
+
 4)	El valor que un cliente quiere de mi servicio que requieren los usuarios es una plataforma intuitiva que les permita planificar, seguir y adaptarse rápidamente a los cambios en sus proyectos.
+
 5)	El cliente también puede obtener estos beneficios adicionales en donde implementaremos integraciones con herramientas populares de desarrollo de software, como repositorios de código y herramientas de colaboración.
+
 6)	Voy a adquirir la mayoría de mis clientes a través de estrategias de marketing digital dirigidas a startups de tecnología y a través de referencias de clientes satisfechos.
+
 7)	Haré dinero a través de un modelo de suscripción mensual o anual, ofreciendo diferentes niveles de funcionalidad según las necesidades del cliente.
+
 8)	Mi competencia principal en el mercado serán Trello, Jira Software y Asana.
+
 9)	Los venceremos debido a nuestra facilidad de uso, integraciones flexibles y enfoque en las necesidades específicas de las empresas emergentes de desarrollo de software.
+
 10)	Mi mayor riesgo de producto es la falta de adopción por parte de los equipos de desarrollo, debido a la resistencia al cambio o a la preferencia por soluciones existentes.
 
 Business Outcomes:
@@ -112,17 +121,22 @@ Business Outcomes:
 -	Reducción de obstáculos relacionados con la falta de herramientas de gestión de proyectos e iniciativas. 
 
 User Outcomes:
-1.	¿Quién es el usuario?
+1.	¿Quién es el usuario?  
 Los usuarios son gerentes de proyectos de software, equipos de desarrollo de software y líderes empresariales de empresas emergentes en el ámbito del desarrollo de software.
-2.	¿Dónde encaja nuestra empresa en su trabajo o vida?
+
+2.	¿Dónde encaja nuestra empresa en su trabajo o vida?  
 Nuestra empresa se posiciona como proveedora de herramientas de gestión de proyectos e iniciativas para facilitar el desarrollo de software en empresas emergentes.
-3.	¿Qué problemas tiene nuestra empresa?
+
+3.	¿Qué problemas tiene nuestra empresa?  
 Nos enfrentamos a la falta de herramientas especializadas que se adapten a las necesidades únicas de las empresas emergentes de desarrollo de software, lo que dificulta la gestión eficiente de proyectos y recursos.
-4.	¿Cuándo y cómo es nuestra empresa?
+
+4.	¿Cuándo y cómo es nuestra empresa?  
 Nuestra empresa está en una etapa inicial, ofreciendo soluciones ágiles y flexibles que se ajustan a las demandas cambiantes del mercado de desarrollo de software.
-5.	¿Qué características son importantes?
+
+5.	¿Qué características son importantes?  
 Las características importantes incluyen una interfaz intuitiva y fácil de usar, capacidades para la gestión de tareas y asignación de recursos, así como integraciones con herramientas populares de desarrollo de software.
-6.	¿Cómo de verse nuestra empresa y comportarse?
+
+6.	¿Cómo debe verse nuestra empresa y comportarse?  
 Nuestra empresa debe presentarse como un aliado confiable que simplifica y optimiza la gestión de proyectos de desarrollo de software, siendo receptiva a las sugerencias de los usuarios y comprometida con la innovación y la mejora continua.
 
 ### 1.2.2.3. Lean UX Hypothesis Statements
