@@ -56,7 +56,10 @@ Product: ManageWise
    3. [Segmentos objetivo](#13-segmentos-objetivo)
 
 ## Student Outcome
-**ABET – EAC - Student Outcome 3:** Capacidad de comunicarse efectivamente con un rango de audiencias.
+*ABET – EAC - Student Outcome 3*  
+**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.
+
+En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET - EAC - Student Outcome 3.
 
 |Criterio especifico | Acciones Realizadas | Conclusiones |
 |:--------------------|:---------------------|:--------------|
