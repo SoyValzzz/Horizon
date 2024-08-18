@@ -24,12 +24,13 @@ Product: ManageWise
 
 ### "ManageWise"
 
-### **Integrantes:** 
-* Estefano Oscar Jaque Peña - u202225466 
-* Diego Rolin Acuña Tomas - u202221436
-* Jose Antonio Alejo Cardenas - u202122484
-* John Telesforo Arevalo Meza - u202117377
-* Valentino Sandoval Paiva - u20211a962
+### **Integrantes:**
+
+- Estefano Oscar Jaque Peña - u202225466
+- Diego Rolin Acuña Tomas - u202221436
+- Jose Antonio Alejo Cardenas - u202122484
+- John Telesforo Arevalo Meza - u202117377
+- Valentino Sandoval Paiva - u20211a962
 
 ### Agosto, 2024
 
@@ -87,106 +88,167 @@ La gestión de proyectos requiere la aplicación de conocimientos, herramientas,
 En consecuencia, un project manager capacitado es pieza clave en la competitividad de una empresa.
 Sin embargo, aun con sus conocimientos le falta una herramienta que facilite la observación del avance del proyecto que pueda ayudar a reducir los fracasos de los proyectos y mejorar el rendimiento de la organización del proyecto.
 
+###### What?
+
+- _¿Qué problema hay?_
+
+El problema a resolver es la falta de herramientas especializadas en el rubro del desarrollo de software que el PM tiene para facilitar sus responsabilidades. Los problemas clave a solucionar son la falta de planificación, la asignación inadecuada de recursos, seguimiento del progreso de los miembros del equipo, entre otros. Además, debe comunicar sus medidas para solucionar estos problemas y notificar cualquier cambio en el plan o nuevo problema.
+
+- _¿Qué relación tiene el problema con el usuario/cliente?_
+
+Si el PM no puede cumplir con sus responsabilidades, esto puede llevar a plazos atrasados, dificultad para resolver un conflicto y uso ineficiente de la mano de obra. Por ello, una herramienta que permita conceptualizar, implementar y monitorear el proyecto asignado tendrá como consecuencia una menor tasa de fracaso y menor costo, además de un ambiente laboral saludable.
+
+###### When?
+
+- _¿Cuándo sucede el problema?_
+
+El problema ocurre porque el PM no puede hacer un seguimiento continuo de los proyectos o tareas asignadas a cada miembro del equipo, en otras palabras si existe algún retraso o problema y el miembro del equipo no lo comunica el PM no podrá actuar rápidamente.
+
+- _¿Cuándo el cliente necesita el programa?_
+
+El cliente objetivo son los PM, los encargados de un proyecto usarán nuestro programa para registrar las tareas del proyecto y los equipos de trabajo, asignar tareas y plazos, y muchas más herramientas para facilitar su labor. También, será útil en el ciclo de vida del desarrollo pues le permitirá observar de manera continua el desarrollo que aporta cada miembro del equipo y se le notificará cuando una tarea no se cumple o no avanza según lo planeado.
+
+###### Where?
+
+- _¿Dónde el cliente usara el producto?_
+
+Al especializarnos en el desarrollo de software, los usuarios pueden usar nuestro programa en las oficinas de la empresa en la que trabajan o en sus hogares, pues en muchos proyectos de desarrollo de software no es necesario las reuniones presenciales.
+
+- _¿A quién está destinado?_
+
+Hoy en día, las empresas son conscientes del impacto en el éxito o fracaso del PM en un proyecto, y un PM no puede cumplir las expectativas sin herramientas que le permitan planificar, ejecutar y controlar, nuestra aplicación le otorgará todas las herramientas. En consecuencia las organizaciones entienden la necesidad de adquirir nuestro producto para su equipo de trabajo.
+
+###### Who?
+
+- _¿Quiénes van a involucrarse con nuestra aplicación?_
+
+Los involucrados en el uso de nuestra aplicación son los miembros de trabajo y el director del proyecto, todos los involucrados deben usarlo para mandar sus avances, resultados de testeo o incluso mensajes, todo para que el equipo este comunicado a lo largo del ciclo de vida del proyecto.
+
+- _¿Quiénes son afectados por el problema?_
+
+El problema afecta a todos los miembros de la organización, pues cuando no puedes cumplir un proyecto genera retrasos, pérdidas monetarias, despidos, pérdida de la confianza en la empresa, entre otros. Por supuesto, las consecuencias dependen de la importancia del proyecto, sin embargo para todos la probabilidad de éxito aumenta cuando el PM puede cumplir con su deber con más eficiencia.
+
+###### Why?
+
+- _¿Por qué ocurre el problema?_
+
+Queremos solucionar la escasez de programas para la gestión de proyectos especializados en el desarrollo de software. En la actualidad, las aplicaciones de gestión de proyectos no están especializadas, por lo que la mayoría no tiene las herramientas que le permitirían al PM conocer con detalle cómo los miembros de su equipo están programando. Aspectos como el lenguaje de programación, frameworks, base de datos relacional o no relacional, los resultados del testeo con detalle, entre otros, son información muy necesaria para el trabajo de equipo.
+
+- _¿Por qué los clientes elegirían utilizar nuestro producto?_
+
+Lo usan antes, durante y después del Ciclo de Vida del Desarrollo de Software (SDLC). Lo usarán antes para planear las tareas del proyecto, definir equipos de trabajo, el uso de lenguajes de programación y frameworks, entre otros. Durante el SDLC, los trabajadores pueden mandar su trabajo y los supervisores pueden tomar medidas para cualquier retraso o problema con la ruta de tareas. Después del SDLC, la empresa podrá ver la información sobre el desempeño de cada trabajador y evaluarlos.
+
+- _¿Por qué las personas estarán motivadas a usar nuestra aplicación?_
+
+Las empresas conocen la importancia de un project manager en el ciclo de vida del desarrollo de software, pero también conocen el costo que requeriría contratar muchos para un solo proyecto. Las herramientas adecuadas permitirían que un número reducido de PM pueden cumplir sus deberes de igual o incluso más eficiente que muchos. En otras palabras, con la herramienta de gestión de proyectos especializada en desarrollo de software permitirá bajar costos y mantener la probabilidad de éxito del proyecto,e incluso podría incluso aumentarla.
+
 ### 1.2.2 Lean UX Process
+
 El proceso Lean UX se adapta especialmente bien a startups como Horizon que buscan crear soluciones innovadoras y efectivas en el mercado. Este enfoque se caracteriza por su agilidad y centrado en el usuario, lo que significa que estamos constantemente buscando validar nuestras ideas y prototipos con los usuarios para garantizar que estamos abordando sus necesidades de manera adecuada.
+
 ### 1.2.2.1. Lean UX Problem Statements
+
 Después de analizar la problemática y los factores que la ocasionan, podemos tener un panorama de cómo solucionar la necesidad del usuario declarando supuestos, lo cual corresponde al siguiente paso de la Lean UX. Por ello, es necesario tener un conocimiento previo de las empresas que tienen características similares a las nuestras y cómo estas se han desarrollado con el paso del tiempo.
 En primer lugar, hablamos de la herramienta Trello, creada por el ingeniero y escritor Avram Joel Spolsky, que su objetivo es proveer una herramienta para la organización de la información. Esta plataforma está optimizada para hacer más sencillas las tareas de los equipos de trabajo.
 En segundo lugar, tenemos la herramienta Jira Software, fue desarrollada por la empresa australiana Atlassian. Está es similar a las funciones de Trello, pero lo resaltante es la compatibilidad con cualquier metodología ágil, ya sea Scrum, Kanban o la tuya propia.
 
 ### 1.2.2.2. Lean UX Assumptions
+
 Assumptions:
-1)	Creo que mis clientes necesitan una forma más eficiente de gestionar proyectos e iniciativas dentro de sus empresas emergentes de desarrollo de software.
 
-2)	Estas necesidades se pueden resolver con una herramienta de gestión de proyectos ágil y adaptable que se integre fácilmente con los flujos de trabajo existentes.
+1. Creo que mis clientes necesitan una forma más eficiente de gestionar proyectos e iniciativas dentro de sus empresas emergentes de desarrollo de software.
 
-3)	Mis clientes iniciales serán startups de tecnología que buscan mejorar la eficiencia y la colaboración en sus equipos de desarrollo.
+2. Estas necesidades se pueden resolver con una herramienta de gestión de proyectos ágil y adaptable que se integre fácilmente con los flujos de trabajo existentes.
 
-4)	El valor que un cliente quiere de mi servicio que requieren los usuarios es una plataforma intuitiva que les permita planificar, seguir y adaptarse rápidamente a los cambios en sus proyectos.
+3. Mis clientes iniciales serán startups de tecnología que buscan mejorar la eficiencia y la colaboración en sus equipos de desarrollo.
 
-5)	El cliente también puede obtener estos beneficios adicionales en donde implementaremos integraciones con herramientas populares de desarrollo de software, como repositorios de código y herramientas de colaboración.
+4. El valor que un cliente quiere de mi servicio que requieren los usuarios es una plataforma intuitiva que les permita planificar, seguir y adaptarse rápidamente a los cambios en sus proyectos.
 
-6)	Voy a adquirir la mayoría de mis clientes a través de estrategias de marketing digital dirigidas a startups de tecnología y a través de referencias de clientes satisfechos.
+5. El cliente también puede obtener estos beneficios adicionales en donde implementaremos integraciones con herramientas populares de desarrollo de software, como repositorios de código y herramientas de colaboración.
 
-7)	Haré dinero a través de un modelo de suscripción mensual o anual, ofreciendo diferentes niveles de funcionalidad según las necesidades del cliente.
+6. Voy a adquirir la mayoría de mis clientes a través de estrategias de marketing digital dirigidas a startups de tecnología y a través de referencias de clientes satisfechos.
 
-8)	Mi competencia principal en el mercado serán Trello, Jira Software y Asana.
+7. Haré dinero a través de un modelo de suscripción mensual o anual, ofreciendo diferentes niveles de funcionalidad según las necesidades del cliente.
 
-9)	Los venceremos debido a nuestra facilidad de uso, integraciones flexibles y enfoque en las necesidades específicas de las empresas emergentes de desarrollo de software.
+8. Mi competencia principal en el mercado serán Trello, Jira Software y Asana.
 
-10)	Mi mayor riesgo de producto es la falta de adopción por parte de los equipos de desarrollo, debido a la resistencia al cambio o a la preferencia por soluciones existentes.
+9. Los venceremos debido a nuestra facilidad de uso, integraciones flexibles y enfoque en las necesidades específicas de las empresas emergentes de desarrollo de software.
+
+10. Mi mayor riesgo de producto es la falta de adopción por parte de los equipos de desarrollo, debido a la resistencia al cambio o a la preferencia por soluciones existentes.
 
 Business Outcomes:
--	Optimizar la eficiencia operativa y la colaboración dentro de equipos de desarrollo de software.
--	Reducción de obstáculos relacionados con la falta de herramientas de gestión de proyectos e iniciativas. 
+
+- Optimizar la eficiencia operativa y la colaboración dentro de equipos de desarrollo de software.
+- Reducción de obstáculos relacionados con la falta de herramientas de gestión de proyectos e iniciativas.
 
 User Outcomes:
-1.	¿Quién es el usuario?  
-Los usuarios son gerentes de proyectos de software, equipos de desarrollo de software y líderes empresariales de empresas emergentes en el ámbito del desarrollo de software.
 
-2.	¿Dónde encaja nuestra empresa en su trabajo o vida?  
-Nuestra empresa se posiciona como proveedora de herramientas de gestión de proyectos e iniciativas para facilitar el desarrollo de software en empresas emergentes.
+1. ¿Quién es el usuario?  
+   Los usuarios son gerentes de proyectos de software, equipos de desarrollo de software y líderes empresariales de empresas emergentes en el ámbito del desarrollo de software.
 
-3.	¿Qué problemas tiene nuestra empresa?  
-Nos enfrentamos a la falta de herramientas especializadas que se adapten a las necesidades únicas de las empresas emergentes de desarrollo de software, lo que dificulta la gestión eficiente de proyectos y recursos.
+2. ¿Dónde encaja nuestra empresa en su trabajo o vida?  
+   Nuestra empresa se posiciona como proveedora de herramientas de gestión de proyectos e iniciativas para facilitar el desarrollo de software en empresas emergentes.
 
-4.	¿Cuándo y cómo es nuestra empresa?  
-Nuestra empresa está en una etapa inicial, ofreciendo soluciones ágiles y flexibles que se ajustan a las demandas cambiantes del mercado de desarrollo de software.
+3. ¿Qué problemas tiene nuestra empresa?  
+   Nos enfrentamos a la falta de herramientas especializadas que se adapten a las necesidades únicas de las empresas emergentes de desarrollo de software, lo que dificulta la gestión eficiente de proyectos y recursos.
 
-5.	¿Qué características son importantes?  
-Las características importantes incluyen una interfaz intuitiva y fácil de usar, capacidades para la gestión de tareas y asignación de recursos, así como integraciones con herramientas populares de desarrollo de software.
+4. ¿Cuándo y cómo es nuestra empresa?  
+   Nuestra empresa está en una etapa inicial, ofreciendo soluciones ágiles y flexibles que se ajustan a las demandas cambiantes del mercado de desarrollo de software.
 
-6.	¿Cómo debe verse nuestra empresa y comportarse?  
-Nuestra empresa debe presentarse como un aliado confiable que simplifica y optimiza la gestión de proyectos de desarrollo de software, siendo receptiva a las sugerencias de los usuarios y comprometida con la innovación y la mejora continua.
+5. ¿Qué características son importantes?  
+   Las características importantes incluyen una interfaz intuitiva y fácil de usar, capacidades para la gestión de tareas y asignación de recursos, así como integraciones con herramientas populares de desarrollo de software.
+
+6. ¿Cómo debe verse nuestra empresa y comportarse?  
+   Nuestra empresa debe presentarse como un aliado confiable que simplifica y optimiza la gestión de proyectos de desarrollo de software, siendo receptiva a las sugerencias de los usuarios y comprometida con la innovación y la mejora continua.
 
 ### 1.2.2.3. Lean UX Hypothesis Statements
 
-* Hypothesis 1:
+- Hypothesis 1:
 
 Creemos que la implementación de un software que haga uso de inteligencia artificial y bases de datos, inclinado a mejorar gestión de actividades en startups de desarrollo de software, incrementará notablemente la eficiencia operativa y la rentabilidad de los proyectos.
 Sabremos que esto es cierto cuando observemos una reducción del 20% en los retrasos en la entrega de proyectos y una mejora del 30% en el uso eficiente de recursos.
 
-* Hypothesis 2:
+- Hypothesis 2:
 
 Creemos que brindar herramientas adecuadas para la gestión eficaz de proyectos e iniciativas en startups de desarrollo de software permitirá superar obstáculos y dificultades relacionados con plazos y recursos limitados.
 Sabremos que hemos tenido exito cuando los usuarios informen un incremento del 35% en la claridad y seguimiento de tareas, junto con una mejora del 18% en la satisfacción del equipo respecto a la gestión de proyectos.
 
-* Hypothesis 3:
+- Hypothesis 3:
 
 Creemos que la implementacion de un software integral que simplifique el seguimiento y la gestión de proyectos en startups de desarrollo de software mejorará el trabajo en equipo y la suficiencia de entrega de productos a tiempo.
 Sabremos que estamos en lo cierto cuando veamos con una reducción del 25% en los costos asociados a retrasos y una mejora del 15% en la capacidad de adaptación a cambios en los requisitos.
 
-* Hypothesis 4:
+- Hypothesis 4:
 
 Creemos que al brindar una herramienta tecnológica que favorezca la gestión de proyectos en startups de desarrollo de software, incrementaremos la capacidad de produccion del equipo y la capacidad de adaptarse rápidamente a cambios en los requisitos del proyecto.
 Sabremos que hemos tenido éxito cuando veamos un aumento del 22% en la agilidad y una reduccion del 10% de tiempo de respuesta del equipo ante nuevas solicitudes y una reducción del 10% en los tiempos de comunicación y coordinación entre equipos.
 
-* Hypothesis 5:
+- Hypothesis 5:
 
 Creemos que al proporcionar una solución innovadora basada en inteligencia artificial y bases de datos para la gestión de proyectos, mejoraremos la calidad de los entregables y la satisfacción del cliente en startups de desarrollo de software.
 Sabremos que hemos tenido exito cuando observemos un incremento del 20% en las calificaciones de satisfacción del cliente y una disminución del 15% en los errores de las entregas.
 
-* Hypothesis 6:
+- Hypothesis 6:
 
 Creemos que la integración de herramientas de seguimiento y análisis de datos en nuestro software aumentará la transparencia y visibilidad del desarrollo de los proyectos para los líderes de equipo y supervisores en startups de desarrollo de software.
 Sabremos que estamos en lo cierto cuando veamos un aumento del 25% en la capacidad de los líderes para tomar decisiones informadas basadas en datos y una mejora del 20% en la precisión de los estimados de tiempo y optimizacion de recursos.
 
-* Hypothesis 7:
+- Hypothesis 7:
 
 Creemos que al ofrecer una plataforma de facil uso y acceso desde múltiples dispositivos, aumentaremos la aceptacion y la eficacia del software por parte de los equipos de trabajo en startups de desarrollo de software.
 Sabremos que hemos tenido exito cuando observemos en un incremento del 30% en la tasa de aceptacion del software y una mejora del 20% en la colaboración y participación entre equipos.
 
-* Hypothesis 8:
+- Hypothesis 8:
 
 Creemos que la implementación de un sistema automatizado de seguimiento de proyectos disminuira la carga administrativa y permitirá que los equipos se concentren en actividades más productivas durante el desarrollo de software.
 Sabremos que hemos tenido exito cuando veamos una reducción del 10% en el tiempo destinado a tareas administrativas y una mejora del 22% en el tiempo invertido en actividades de desarrollo y despliegue de software.
 
-* Hypothesis 9:
+- Hypothesis 9:
 
 Creemos que al proveer herramientas de análisis predictivo para la gestionar riesgos, ayudaremos a aminorizar problemas potenciales y a mejorar la capacidad de anticipación en startups de desarrollo de software.
 Sabremos que hemos tenido éxito cuando veamos una reducción del 12% en los riesgos identificados durante los proyectos y un incremento del 30% en la capacidad de respuesta ante riesgos críticos.
 
-* Hypothesis 10:
+- Hypothesis 10:
 
 Creemos que posibilitar la colaboración remota y la comunicación en tiempo real entre los equipo de trabajo incrementará la eficiencia operativa y la flexibilidad laboral en startups de desarrollo de software.
 Sabremos que hemos tenido exito cuando veamos un aumento del 35% en la productividad de los equipos de trabajo y una reducción del 15% en los tiempos de respuesta al solucionar problemas y organizar actividades entre ubicaciones distantes.
@@ -200,9 +262,9 @@ Sabremos que hemos tenido exito cuando veamos un aumento del 35% en la productiv
 **Empresa de desarrollo de software en crecimiento:**  
 Descripción: Empresas desde startups innovadoras hasta organizaciones establecidas con rápido crecimiento. Se distinguen por su necesidad de herramientas que optimicen sus procesos de desarrollo y gestión de proyectos.  
 Necesidades: Buscan soluciones que les permitan gestionar proyectos de manera eficiente y mejorar la coordinación del equipo.  
-Aspiraciones: Quieren liderar en su sector, innovar constantemente, y ofrecer productos de software de alta calidad.   
+Aspiraciones: Quieren liderar en su sector, innovar constantemente, y ofrecer productos de software de alta calidad.
 
 **Equipo de Desarrollo de Software:**  
-Descripción: Equipos dentro de empresas de TI dedicados a la creación y mejora de software. 
+Descripción: Equipos dentro de empresas de TI dedicados a la creación y mejora de software.
 Necesidades: Necesitan plataformas que faciliten la colaboración, gestionen el flujo de trabajo, y ofrezcan visibilidad sobre el progreso del mismo. Además de poder supervisar el trabajo de todos los miembros.  
-Aspiraciones: Aspiran a culminar el proyecto de la mejor forma y en el menor tiempo posible.  
+Aspiraciones: Aspiran a culminar el proyecto de la mejor forma y en el menor tiempo posible.
