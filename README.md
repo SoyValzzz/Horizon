@@ -78,6 +78,6 @@ Sin embargo, aun con sus conocimientos le falta una herramienta que facilite la 
 ### 1.2.2.3. Lean UX Hypothesis Statements
 ### 1.2.2.4. Lean UX Canvas
 
-![Lean UX Canvas](canvas.jpg "Lean UX Canvas")
+![Lean UX Canvas](./img/canvas.jpg "Lean UX Canvas")
 
 ### 1.3. Segmentos objetivo
