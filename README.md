@@ -1,6 +1,3 @@
-# Horizon
-Product: ManageWise
-
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS  
 
 ## Ingenieria de Software  
@@ -11,8 +8,8 @@ Product: ManageWise
 ### **Profesor:** dsdfsdfsd
 ### Informe de Trabajo Final  
 
-### "Nombre del startup"
-### "Nombre del producto"
+### "Horizon"
+### "ManageWise"
 
 ### **Integrantes:**  
 * dsfsdfsdfsdf
