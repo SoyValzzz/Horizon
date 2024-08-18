@@ -56,6 +56,12 @@ Product: ManageWise
    3. [Segmentos objetivo](#13-segmentos-objetivo)
 
 ## Student Outcome
+**ABET – EAC - Student Outcome 3:** Capacidad de comunicarse efectivamente con un rango de audiencias.
+
+|Criterio especifico | Acciones Realizadas | Conclusiones |
+|:--------------------|:---------------------|:--------------|
+|1. Comunicación efectiva: Capacidad de comunicarse efectivamente con un rango de audiencias|**Estefano Oscar Jaque Peña.** TB1: "Lo que avanzaste en la TB1" **Diego Rolin Acuña Tomas** TB1: "Lo que avanzaste en la TB1"  **Jose Antonio Alejo Cardenas** TB1: "Lo que avanzaste en la TB1" **John Telesforo Arevalo Meza** TB1: "Lo que avanzaste en la TB1" **Valentino Sandoval Paiva** TB1: "Lo que avanzaste en la TB1" |**TB1:** |
+|2. Pensamiento innovador: Capacidad para detectar necesidades y oportunidades para generar proyectos o propuestas innovadoras, viables y rentables. Planifica y toma decisiones eficientes orientadas al objetivo del proyecto.| **Estefano Oscar Jaque Peña.** TB1: "Lo que avanzaste en la TB1" **Diego Rolin Acuña Tomas** TB1: "Lo que avanzaste en la TB1"  **Jose Antonio Alejo Cardenas** TB1: "Lo que avanzaste en la TB1" **John Telesforo Arevalo Meza** TB1: "Lo que avanzaste en la TB1" **Valentino Sandoval Paiva** TB1: "Lo que avanzaste en la TB1"|**TB1:**              |
 
 ## Capítulo I: Introducción
 
