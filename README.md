@@ -2,6 +2,9 @@
 Product: ManageWise
 
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS  
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1274742305080737884/UPCLogo.png?ex=66c35bc9&is=66c20a49&hm=f1d242afd6f2610d918693b6cf1a25608406f2ea70eefd2a6926ca8f5df8251a&">
+</p>
 
 ## Ingenieria de Software  
 ## 5to ciclo  
