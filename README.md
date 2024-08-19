@@ -104,12 +104,8 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 
 - Estefano Oscar Jaque Peña - U202225466
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1274816594891243571/image.png?ex=66c3a0f9&is=66c24f79&hm=2b6191def0883e1b052f9d16c5886b16dfea97dbecc373479ca719e4a97125e0&">
-</p>
-
-Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software, una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión de
-información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores en el área de la Ingeniería de Software.
+| <p align="center"><img src="https://cdn.discordapp.com/attachments/1257109045723271192/1274816594891243571/image.png?ex=66c3a0f9&is=66c24f79&hm=2b6191def0883e1b052f9d16c5886b16dfea97dbecc373479ca719e4a97125e0&"> </p> | Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software, una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores en el área de la Ingeniería de Software. |
+|-----|----|
 
 - Diego Rolin Acuña Tomas - U202221436
 
