@@ -56,15 +56,16 @@ Product: ManageWise
    3. [Segmentos objetivo](#13-segmentos-objetivo)
 
 ## Student Outcome
-*ABET – EAC - Student Outcome 3*  
+
+_ABET – EAC - Student Outcome 3_  
 **Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.
 
 En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET - EAC - Student Outcome 3.
 
-|Criterio especifico | Acciones Realizadas | Conclusiones |
-|:--------------------|:---------------------|:--------------|
-|1. Comunicación efectiva:<br>Capacidad de comunicarse <br>efectivamente con un rango<br> de audiencias|**Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br> **Diego Rolin Acuña Tomas**<br> TB1: "Lo que avanzaste en la TB1" <br>**Jose Antonio Alejo Cardenas** <br>TB1: "Lo que avanzaste en la TB1" <br>**John Telesforo Arevalo Meza**<br> TB1: "Lo que avanzaste en la TB1"<br>**Valentino Sandoval Paiva** <br>TB1: "Lo que avanzaste en la TB1" |**TB1:** |
-|2. Pensamiento innovador: <br>Capacidad para detectar <br>necesidades y oportunidades <br>para generar proyectos o <br>propuestas innovadoras,<br> viables y rentables. Planifica <br>y toma decisiones eficientes <br>orientadas al objetivo del<br> proyecto.|**Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br> **Diego Rolin Acuña Tomas**<br> TB1: "Lo que avanzaste en la TB1" <br>**Jose Antonio Alejo Cardenas**<br> TB1: "Lo que avanzaste en la TB1" <br>**John Telesforo Arevalo Meza**<br> TB1: "Lo que avanzaste en la TB1"<br>**Valentino Sandoval Paiva** <br>TB1: "Lo que avanzaste en la TB1" |**TB1:**              |
+| Criterio especifico                                                                                                                                                                                                                                             | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- |
+| 1. Comunicación efectiva:<br>Capacidad de comunicarse <br>efectivamente con un rango<br> de audiencias                                                                                                                                                          | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br> **Diego Rolin Acuña Tomas**<br> TB1: "Lo que avanzaste en la TB1" <br>**Jose Antonio Alejo Cardenas** <br>TB1: "Lo que avanzaste en la TB1" <br>**John Telesforo Arevalo Meza**<br> TB1: "Lo que avanzaste en la TB1"<br>**Valentino Sandoval Paiva** <br>TB1: "Lo que avanzaste en la TB1" | **TB1:**     |
+| 2. Pensamiento innovador: <br>Capacidad para detectar <br>necesidades y oportunidades <br>para generar proyectos o <br>propuestas innovadoras,<br> viables y rentables. Planifica <br>y toma decisiones eficientes <br>orientadas al objetivo del<br> proyecto. | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br> **Diego Rolin Acuña Tomas**<br> TB1: "Lo que avanzaste en la TB1" <br>**Jose Antonio Alejo Cardenas**<br> TB1: "Lo que avanzaste en la TB1" <br>**John Telesforo Arevalo Meza**<br> TB1: "Lo que avanzaste en la TB1"<br>**Valentino Sandoval Paiva** <br>TB1: "Lo que avanzaste en la TB1" | **TB1:**     |
 
 ## Capítulo I: Introducción
 
@@ -165,19 +166,24 @@ Lo usan antes, durante y después del Ciclo de Vida del Desarrollo de Software (
 Las empresas conocen la importancia de un project manager en el ciclo de vida del desarrollo de software, pero también conocen el costo que requeriría contratar muchos para un solo proyecto. Las herramientas adecuadas permitirían que un número reducido de PM pueden cumplir sus deberes de igual o incluso más eficiente que muchos. En otras palabras, con la herramienta de gestión de proyectos especializada en desarrollo de software permitirá bajar costos y mantener la probabilidad de éxito del proyecto,e incluso podría incluso aumentarla.
 
 ###### Who?
-- _¿Cómo nos descubren nuestros clientes?
+
+- _¿Cómo nos descubren nuestros clientes?_
+
 Nuestros clientes pueden conocer nuestra marca a través de una amplia variedad de estrategias publicitarias en línea, que incluyen anuncios en redes sociales, banners en sitios web relevantes y campañas de email marketing. Además, la recomendación de empresas que ya han experimentado la calidad de nuestro producto y se han beneficiado de él jugará un papel crucial en la difusión de nuestra marca mediante el boca a boca.
-- _¿Cómo pueden los clientes acceder a nuestro contenido?
+
+- _¿Cómo pueden los clientes acceder a nuestro contenido?_
+
 El acceso a nuestro contenido será muy sencillo y flexible. Los clientes podrán conectarse a través de cualquier dispositivo móvil, ya sea un teléfono inteligente, una tablet, o una laptop. Además, nuestra plataforma será completamente funcional en computadoras de escritorio y portátiles, asegurando así una experiencia de usuario fluida y accesible desde múltiples tipos de dispositivos.
-- _¿Qué factores llevan a los clientes a elegirnos?
+
+- _¿Qué factores llevan a los clientes a elegirnos?_
+
 Los clientes se sentirán atraídos hacia nuestra solución por la facilidad que ofrecemos en la gestión de proyectos. Nuestra herramienta está diseñada para centralizar toda la información relevante, facilitando su acceso para todos los miembros del equipo y partes interesadas en el proyecto. Al proporcionar una plataforma que mejora la coordinación y transparencia, permitimos a los clientes optimizar su flujo de trabajo y mejorar la eficiencia en el desarrollo de proyectos, lo que les lleva a elegirnos como su proveedor preferido.
 
 ###### How much?
+
 A lo largo de la vida de un proyecto, es común observar diferentes etapas que reflejan su estado de salud o dificultades. Cuando surgen problemas inesperados, es fundamental realizar un diagnóstico preciso para identificar las causas subyacentes y desarrollar soluciones adecuadas. Los problemas frecuentes que pueden surgir incluyen una comprensión deficiente de los objetivos del proyecto, la falta de un plan detallado y claro, problemas en el control y la comunicación, una gestión ineficaz de los cambios y de las partes interesadas, y una falta de motivación entre los miembros del equipo.
 
 Además, es importante considerar otros factores que pueden afectar la salud del proyecto, como la falta de recursos adecuados, la resistencia al cambio, y la falta de alineación entre los miembros del equipo y los objetivos del proyecto. También puede haber problemas con la integración de nuevas tecnologías o herramientas, así como dificultades en la adaptación a condiciones cambiantes del mercado o del entorno empresarial. Abordar estos aspectos de manera proactiva y con una estrategia bien definida puede ayudar a mantener el proyecto en el camino correcto y garantizar su éxito a largo plazo.
-
-
 
 ### 1.2.2 Lean UX Process
 
