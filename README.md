@@ -330,8 +330,32 @@ Aspiraciones: Aspiran a culminar el proyecto de la mejor forma y en el menor tie
 ## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
+Wrike: Wrike es una plataforma de gestión de proyectos colaborativa que permite a los equipos planificar, rastrear y gestionar proyectos con alta eficiencia.
+
+Trello:Trello es una herramienta de gestión de proyectos basada en tableros que permite organizar tareas de manera visual y sencilla.
+
+ClickUp: ClickUp es una plataforma todo-en-uno de gestión de proyectos que incluye desde tareas simples hasta colaboración avanzada y gestión de tiempo.
 
 ### 2.1.1. Análisis competitivo
+
+Competitive Analysis Landscape
+
+¿Por qué llevar a cabo este análisis?  
+Para poder tener un análisis completo sobre nuestro modelo de negocio además de poder comprender a nuestros competidores.
+
+| Nombre de <br>los Startups <br> o Empresas | | Nuestra startup | Competidor 1 | Competidor 2 | Competidor 3 |
+|--------------------------------------------|-------|-----------------|--------------|--------------|--------------| 
+|Perfil| Overview| Horizon | Wrike|Trello|ClickUp|
+||Ventaja competitiva:<br>¿Qué valor ofrece<br> a los clientes?|XXXX|ofrece análisis predictivos,<br> automatización avanzada y <br>herramientas de colaboración <br>que permiten a los equipos<br> mejorar la productividad y <br>la visibilidad del proyecto<br> en tiempo real.|Proporciona una interfaz <br>intuitiva y fácil de usar,<br> ideal para equipos pequeños<br> y startups que buscan <br>simplicidad en la gestión <br>de tareas.|Proporciona una solución <br>altamente personalizable <br>que puede adaptarse a <br>diferentes necesidades <br>empresariales, integrando <br>gestión de tareas, tiempo <br>y recursos en una sola <br>plataforma.|
+|Perfil de Marketing|Mercado Objetivo|XXXX|Empresas medianas a grandes,<br> así como equipos de proyectos <br>complejos que requieren <br>integración y colaboración <br>avanzadas.|Equipos pequeños, startups<br> y empresas que necesitan <br>una herramienta <br>de gestión de proyectos <br>visual y simple.|Startups, pequeñas y medianas <br>empresas que buscan una <br>herramienta flexible y completa <br>para la gestión de proyectos.|
+||Estrategias de Marketing|XXXX|Wrike se posiciona como una <br>herramienta robusta y flexible <br>para equipos que necesitan <br>mejorar la eficiencia operativa <br>y la gestión de proyectos. <br>Su estrategia incluye <br>demostraciones personalizadas <br>y un enfoque en las <br>integraciones con otras <br>herramientas empresariales.|Se enfoca en la simplicidad <br>y la accesibilidad, <br>promocionando su facilidad <br>de uso y la posibilidad de <br>integrarse con herramientas <br>populares como Slack y <br>Google Workspace.|Se posiciona como una alternativa<br> más económica y todo-en-uno a <br>las herramientas tradicionales de <br>gestión de proyectos, con un <br>fuerte enfoque en la personalización<br> y la escalabilidad.|
+|Perfil del producto|Productos y servicios|XXXX|Ofrece un conjunto completo de <br>herramientas de gestión de <br>proyectos, desde la planificación <br>hasta la ejecución, incluyendo <br>paneles de control, cronogramas <br>de Gantt y flujos de trabajo<br> automatizados.|Ofrece tableros Kanban para<br> la gestión de proyectos, con<br> opciones de listas de tareas,<br> etiquetas y archivos adjuntos|Ofrece una amplia gama de <br>herramientas para la gestión de <br>tareas, seguimiento del tiempo, <br>automatización de flujos de <br>trabajo y colaboración en equipo.|
+||Precios y Costos|XXXX|Sus planes varían desde versiones <br>gratuitas limitadas hasta <br>suscripciones empresariales <br>premium, comenzando en<br>aproximadamente $9.80 por<br> usuario/mes.|Ofrece una versión gratuita<br> con limitaciones y planes <br>premium que comienzan en <br>$5 por usuario/mes.|Plan gratuito robusto y planes <br>pagos que comienzan en $5 <br>por usuario/mes.|
+||Canales de distribución <br>(Web y/o Móvil)|XXXX|Se distribuye principalmente a <br>través de su sitio web oficial,<br> con soporte adicional en <br>aplicaciones móviles y a través<br> de integraciones con plataformas<br> como Microsoft Teams y <br>Salesforce.|Distribuido principalmente a <br>través de su sitio web oficial,<br> y también disponible en <br>aplicaciones móviles para iOS <br>y Android.|Se distribuye a través de su<br> sitio web y tiene aplicaciones<br> para dispositivos móviles,<br> además de extensiones <br>para navegadores.|
+|Análisis SWOT|Fortalezas|XXXX|Funcionalidad robusta,<br> integración con otras herramientas<br> empresariales, análisis predictivo.|Interfaz intuitiva, amplia <br>accesibilidad, integración<br> con múltiples herramientas.|Altamente personalizable,<br> excelente relación calidad-precio,<br> fuerte integración.|
+||Debilidades|XXXX|Curva de aprendizaje<br> pronunciada para nuevos usuarios.|Limitaciones en funciones <br>avanzadas para la gestión<br> de proyectos complejos.|Puede ser abrumador para <br>usuarios nuevos debido<br> a su vasta cantidad de funciones.|
+||Oportunidades|XXXX|Expansión en mercados emergentes,<br> desarrollo de nuevas <br> funcionalidades de IA.|Expansión de integraciones <br>y nuevas funcionalidades<br> para grandes equipos.|Expansión en mercados globales, <br>mejoras continuas en <br>automatización y AI.|
+||Amenazas|XXXX|Competencia creciente con <br>herramientas más accesibles <br>y económicas.|Competencia con<br> herramientas que ofrecen <br>más funciones por un costo<br> similar.|La competencia con<br> herramientas establecidas <br>que tienen una base de<br> usuarios leal.|
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
