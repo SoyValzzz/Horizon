@@ -54,6 +54,19 @@ Product: ManageWise
          3. [Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
          4. [Lean UX Canvas](#1224-lean-ux-canvas)
    3. [Segmentos objetivo](#13-segmentos-objetivo)
+2. [**Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation--analysis)
+   1. [Competidores](#21-competidores)
+         1. [Análisis competitivo](#211-análisis-competitivo)
+         2. [Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+   2. [Entrevistas](#22-entrevistas)
+         1. [Diseño de entrevistas](#221-diseño-de-entrevistas)
+         2. [Registro de entrevistas](#222-registro-de-entrevistas)
+         3. [Análisis de entrevistas](#223-análisis-de-entrevistas)
+   3. [Needfinding](#23-needfinding)
+         1. [User Personas](#231-user-personas)
+         2. [User Task Matrix](#232-user-task-matrix)
+         3. [User Journey Mapping](#233-user-journey-mapping)
+         4. [Empathy Mapping](#234-empathy-mapping)
 
 ## Student Outcome
 *ABET – EAC - Student Outcome 3*  
@@ -99,7 +112,7 @@ información. Mi experiencia trabajando en equipos me ha brindado habilidades de
 
 ### 1.2. Solution Profile
 
-### 1.2.1 Antecedentes y problemática
+### 1.2.1. Antecedentes y problemática
 
 Actualmente los entornos están caracterizados por una alta competencia e incertidumbre, las organizaciones se enfocan en realizar proyectos de software orientados a objetivos estratégicos.
 La gestión de proyectos requiere la aplicación de conocimientos, herramientas, técnicas, métodos y habilidades a las actividades del proyecto para lograr el éxito.
@@ -164,7 +177,7 @@ Lo usan antes, durante y después del Ciclo de Vida del Desarrollo de Software (
 
 Las empresas conocen la importancia de un project manager en el ciclo de vida del desarrollo de software, pero también conocen el costo que requeriría contratar muchos para un solo proyecto. Las herramientas adecuadas permitirían que un número reducido de PM pueden cumplir sus deberes de igual o incluso más eficiente que muchos. En otras palabras, con la herramienta de gestión de proyectos especializada en desarrollo de software permitirá bajar costos y mantener la probabilidad de éxito del proyecto,e incluso podría incluso aumentarla.
 
-### 1.2.2 Lean UX Process
+### 1.2.2. Lean UX Process
 
 El proceso Lean UX se adapta especialmente bien a startups como Horizon que buscan crear soluciones innovadoras y efectivas en el mercado. Este enfoque se caracteriza por su agilidad y centrado en el usuario, lo que significa que estamos constantemente buscando validar nuestras ideas y prototipos con los usuarios para garantizar que estamos abordando sus necesidades de manera adecuada.
 
@@ -290,3 +303,29 @@ Aspiraciones: Quieren liderar en su sector, innovar constantemente, y ofrecer pr
 Descripción: Equipos dentro de empresas de TI dedicados a la creación y mejora de software.
 Necesidades: Necesitan plataformas que faciliten la colaboración, gestionen el flujo de trabajo, y ofrezcan visibilidad sobre el progreso del mismo. Además de poder supervisar el trabajo de todos los miembros.  
 Aspiraciones: Aspiran a culminar el proyecto de la mejor forma y en el menor tiempo posible.
+
+## Capítulo II: Requirements Elicitation & Analysis
+
+### 2.1. Competidores
+
+### 2.1.1. Análisis competitivo
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+### 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+
+### 2.2.2. Registro de entrevistas
+
+### 2.2.3. Análisis de entrevistas
+
+### 2.3. Needfinding
+
+### 2.3.1. User Personas
+
+### 2.3.2. User Task Matrix
+
+### 2.3.3. User Journey Mapping
+
+### 2.3.4. Empathy Mapping
