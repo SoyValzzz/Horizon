@@ -309,7 +309,17 @@ Sabremos que hemos tenido exito cuando veamos un aumento del 35% en la productiv
 
 ### 1.2.2.4. Lean UX Canvas
 
-![Lean UX Canvas](https://cdn.discordapp.com/attachments/1257109045723271192/1274792875569184899/Lean_UX_Canvas_Template_1.jpg?ex=66c38ae2&is=66c23962&hm=c539fe2d2578a02c0cec55ed721a37158883ab41b8954677a5bacc2f901ca6af&)
+|Sección|Contenido|
+|-------|---------|
+| **Business Problem** | La falta de una solución completa para la gestión de proyectos puede resultar en demoras en las entregas, sobrepasar <br> los presupuestos y disminuir la satisfacción del cliente. <br> Gestión ineficiente de proyectos e iniciativas.|
+| **Business Outcomes** | Aumentar la productividad de la empresa. <br> Reducir el tiempo desde la planificación del proyecto hasta el lanzamiento del producto final.|
+| **Users and Customers** | Identificación de los diferentes tipos de usuarios y clientes que interactuarán con el producto, sus necesidades, comportamientos y características.|
+| **User Benefits** |Optimización del tiempo y recursos <br> Comunicación mejorada <br> Productos y servicios de excelente calidad|
+| **Solution Ideas** |Facilitar la comunicación y colaboración entre equipos mediante la integración de herramientas de mensajería instantánea, <br> como Slack o Microsoft Teams, directamente en la plataforma de gestión de proyectos. <br> Establecimiento de objetivos claros y alcanzables.|
+| **Hypotheses** |Creemos que la implementación de un software que haga uso de inteligencia artificial y bases de datos, inclinado a mejorar gestión de actividades en <br> startups de desarrollo de software, incrementará notablemente la eficiencia operativa y la rentabilidad de los proyectos. Sabremos que esto es cierto cuando observemos una reducción del 20% en los retrasos en la entrega de proyectos y una mejora del 30% en el uso eficiente de recursos. <br> Creemos que brindar herramientas adecuadas para la gestión eficaz de proyectos e iniciativas en startups de desarrollo de software permitirá superar obstáculos <br> y dificultades relacionados con plazos y recursos limitados. Sabremos que hemos tenido exito cuando los usuarios informen un incremento del 35% en la claridad y seguimiento de tareas, junto con una mejora del 18% en la satisfacción del equipo respecto a la gestión de proyectos.|
+| **What's the most important <br> thing we need to learn first?** |Conocer las expectativas y deseos de los clientes. <br> Identificar los problemas que los clientes puedan enfrentar. <br> Descubrir qué actualizaciones esperan los futuros usuarios para mejorar la app.|
+| **What's the least amount of <br> work we need to do to learn <br> the next most important thing?** | Realizar entrevistas para explorar cómo abordar el tema. <br> Tener como referencia una app similar que tenga algunas funciones, pero no idénticas. <br> Realizar encuestas a personas con experiencia y conocimientos. |
+
 
 ### 1.3. Segmentos objetivo
 
