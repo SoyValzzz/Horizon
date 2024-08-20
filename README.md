@@ -122,7 +122,7 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 |:-|-|
 - John Telésforo Arévalo Meza - U202117377
 
-| <p align="center"><img width="500" src="https://cdn.discordapp.com/attachments/1274759574087270442/1275491344412053595/Polish_20240820_112102455.jpg?ex=66c61561&is=66c4c3e1&hm=eda1b481e13860c2872fe384620af2ea0cda95e998b298004745c2692db72b4d&"> </p> | Soy John Arévalo, tengo 20 años y soy estudiante de la carrera de Ingeniería de Software. Tengo conocimiento en lenguajes de programación como python y c++, y bases de datos como SQLServer y MongoDB. Desde pequeño me sentí atraído por la tecnología, por lo que me decidí a estudiar la carrera, además disfruto de jugar videojuegos con amigos en mi tiempo libre. |
+| <p align="center"><img width="700" src="https://cdn.discordapp.com/attachments/1274759574087270442/1275491344412053595/Polish_20240820_112102455.jpg?ex=66c61561&is=66c4c3e1&hm=eda1b481e13860c2872fe384620af2ea0cda95e998b298004745c2692db72b4d&"> </p> | Soy John Arévalo, tengo 20 años y soy estudiante de la carrera de Ingeniería de Software. Tengo conocimiento en lenguajes de programación como python y c++, y bases de datos como SQLServer y MongoDB. Desde pequeño me sentí atraído por la tecnología, por lo que me decidí a estudiar la carrera, además disfruto de jugar videojuegos con amigos en mi tiempo libre. |
 |:-|-|
 
 
