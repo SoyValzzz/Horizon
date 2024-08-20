@@ -75,12 +75,10 @@ _ABET – EAC - Student Outcome 3_
 
 En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET - EAC - Student Outcome 3.
 
-| Criterio especifico                                                          | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones |
-| :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------- |
+| Criterio especifico                                                          | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Conclusiones |
+| :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------- |
 | 1. Comunica oralmente con efectividad <br>a diferentes rangos de audiencia   | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br> **Diego Rolin Acuña Tomas**<br> TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática" <br>**Jose Antonio Alejo Cardenas** <br>TB1: "Lo que avanzaste en la TB1" <br>**John Telesforo Arevalo Meza**<br> TB1: Realice el Lean UX Canvas y los segmentos objetivos <br>**Valentino Sandoval Paiva** <br>TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática | **TB1:**     |
 | 2. Comunica por escrito con efectividad <br>a diferentes rangos de audiencia | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br> **Diego Rolin Acuña Tomas**<br> TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática" <br>**Jose Antonio Alejo Cardenas**<br> TB1: "Lo que avanzaste en la TB1" <br>**John Telesforo Arevalo Meza**<br> TB1: Realice el Lean UX Canvas y los segmentos objetivos <br>**Valentino Sandoval Paiva** <br>TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática | **TB1:**     |
-| 1. Comunica oralmente con efectividad <br>a diferentes rangos de audiencia   | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br> **Diego Rolin Acuña Tomas**<br> TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática" <br>**Jose Antonio Alejo Cardenas:** <br>TB1: "Realice el Lean UX Hypothesis Statements y Lean UX Canvas" <br>**John Telesforo Arevalo Meza**<br> TB1: "Lo que avanzaste en la TB1"<br>**Valentino Sandoval Paiva** <br>TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática | **TB1:** <br>     |
-| 2. Comunica por escrito con efectividad <br>a diferentes rangos de audiencia | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br> **Diego Rolin Acuña Tomas**<br> TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática" <br>**Jose Antonio Alejo Cardenas**<br> TB1: "Realice el Lean UX Hypothesis Statements y Lean UX Canvas" <br>**John Telesforo Arevalo Meza**<br> TB1: "Lo que avanzaste en la TB1"<br>**Valentino Sandoval Paiva** <br>TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática | **TB1:** <br>     |
 
 ## Capítulo I: Introducción
 
@@ -111,12 +109,13 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 
 - Diego Rolin Acuña Tomas - U202221436
 
-| <p align="center"><img width="300" height="150" src="https://cdn.discordapp.com/attachments/1257109045723271192/1275266454484291584/1_whatsapp_image_2022_09_10_at_6_21_27_pm.jpeg?ex=66c543f0&is=66c3f270&hm=ff4e77e9d7155359050d176bdbb843afec0163b5a1189920cefca60fce153d40&"> </p> | Soy Diego Rolin Acuña Tomas, tengo 22 años y estoy cursando la carrera de Ingeniería de Software. |
+| <p align="center"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1257109045723271192/1275266454484291584/1_whatsapp_image_2022_09_10_at_6_21_27_pm.jpeg?ex=66c543f0&is=66c3f270&hm=ff4e77e9d7155359050d176bdbb843afec0163b5a1189920cefca60fce153d40&"> </p> | Soy Diego Rolin Acuña Tomas, tengo 22 años y estoy cursando la carrera de Ingeniería de Software. |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
+
 - Valentino Sandoval Paiva - U20211A962
 
-| <p align="center"><img width="300" height="150" src="https://cdn.discordapp.com/attachments/1246609784501833810/1275484304943616051/Captura_de_pantalla_2024-08-20_102209.png?ex=66c60ed3&is=66c4bd53&hm=93399dd5df3ba222969547f5ace957106ac6fa4db31ec965eff3633c76d4a248&"> </p> | 	Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
+| <p align="center"><img width="300" height="150" src="https://cdn.discordapp.com/attachments/1246609784501833810/1275484304943616051/Captura_de_pantalla_2024-08-20_102209.png?ex=66c60ed3&is=66c4bd53&hm=93399dd5df3ba222969547f5ace957106ac6fa4db31ec965eff3633c76d4a248&"> </p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### 1.2. Solution Profile
 
@@ -375,14 +374,16 @@ Para poder tener un análisis completo sobre nuestro modelo de negocio además d
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 ### 2.2. Entrevistas
+
 En esta sección del informe se realizará el diseño, registro y análisis de las entrevistas de nuestros segmentos objetivos
 
 ### 2.2.1. Diseño de entrevistas
+
 Segmentos encontrados:
 
-* Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento
+- Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento
 
-* Equipo de Desarrollo de Software
+- Equipo de Desarrollo de Software
 
 Antes de poder realizar las entrevistas, consideramos prudente poder concretar un análisis previo para poder realizar las entrevistas de una mejor manera. Es por ello, que para cada uno de nuestros segmentos proponemos estas preguntas para poder conocer un poco más sobre nuestro público objetivo.
 
@@ -426,7 +427,6 @@ preguntas ordenadas para entrevistar a los dos segmentos objetivos de la startup
 15. **Disposición a Adoptar Nuevas Herramientas**: Si una nueva herramienta satisface las necesidades del equipo, ¿estaría dispuesto a adoptarla y colaborar con la empresa desarrolladora para su mejora continua?
 
 Estas preguntas están diseñadas para llevar la conversación de manera lógica y ordenada, desde la comprensión del rol y desafíos actuales hasta la exploración de futuras colaboraciones y expectativas.
-
 
 ### 2.2.2. Registro de entrevistas
 
