@@ -442,26 +442,40 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 
 #### Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento
 
-
 #### Segmento 2: Equipo de Desarrollo de Software
 
- 1. Entrevista 1: <br>
- Datos del entrevistado <br>
- Nombre: Fabricio <br>
- Apellidos: Caysedo Salvador<br>
- Edad: 19 <br>
- Distrito: San Martin de Porres <br>
- 
- 
- ![Foto de entrevista](https://media.discordapp.net/attachments/1048415872450039820/1276770578501730418/Captura_de_pantalla_2024-08-24_000557.png?ex=66cabcc3&is=66c96b43&hm=ee3d0b66f81e99aa57a94ec6397e3803683fd91ba55e81eeedf48e8393dcc0a5&=&format=webp&quality=lossless)
- 
- URL: [Link de entrevista](https://drive.google.com/file/d/1uXZ6G0zsHYuDO0gdae2g7U5mKxVTHGnG/view?usp=sharing "Entrevista 1") 
+1.  Entrevista 1: <br>
+    Datos del entrevistado <br>
+    Nombre: Fabricio <br>
+    Apellidos: Caysedo Salvador<br>
+    Edad: 19 <br>
+    Distrito: San Martin de Porres <br>
 
- Inicio: 0:38<br>
- Duracion: 6:52
+![Foto de entrevista](https://media.discordapp.net/attachments/1048415872450039820/1276770578501730418/Captura_de_pantalla_2024-08-24_000557.png?ex=66cabcc3&is=66c96b43&hm=ee3d0b66f81e99aa57a94ec6397e3803683fd91ba55e81eeedf48e8393dcc0a5&=&format=webp&quality=lossless)
 
- Resumen:<br>
- La entrevista con Fabricio proporcionó información valiosa sobre como un integrante del equipo de desarrollo realiza sus actividades y sus principales desafios. Fabricio nos comenta que la diferencia de pensamientos es un gran problema para un flujo de trabajo continuo y la colaboración. El no ha tenido malas experiencias con otras herramientas gracias a la capacitacion de las mismas. Por otro lado, el considera que la falta de herramientas innovadoras limita el trabajo en equipo, ya que es fundamental conocer un registro de lo avanzado por cada miembro. Así mismo, El cree que las herramientas actualizadas que promueven la gestion y la colaboración deberian ser muy precisas y fiables , pues algunas herramientas tienen fallas. El espera que las herramientas de gestion sean flexibles para adaptarlas a cada modelo de negocio de cada empresa.
+URL: [Link de entrevista](https://drive.google.com/file/d/1uXZ6G0zsHYuDO0gdae2g7U5mKxVTHGnG/view?usp=sharing "Entrevista 1")
+
+Inicio: 0:38<br>
+Duracion: 6:52
+
+Resumen:<br>
+La entrevista con Fabricio proporcionó información valiosa sobre como un integrante del equipo de desarrollo realiza sus actividades y sus principales desafios. Fabricio nos comenta que la diferencia de pensamientos es un gran problema para un flujo de trabajo continuo y la colaboración. El no ha tenido malas experiencias con otras herramientas gracias a la capacitacion de las mismas. Por otro lado, el considera que la falta de herramientas innovadoras limita el trabajo en equipo, ya que es fundamental conocer un registro de lo avanzado por cada miembro. Así mismo, El cree que las herramientas actualizadas que promueven la gestion y la colaboración deberian ser muy precisas y fiables , pues algunas herramientas tienen fallas. El espera que las herramientas de gestion sean flexibles para adaptarlas a cada modelo de negocio de cada empresa.
+
+2.  Entrevista 2: <br>
+    Datos del entrevistado <br>
+    Nombre: Agustin<br>
+    Apellidos: Aguilar Lindo<br>
+    Edad: 21 <br>
+    Distrito: San Borja <br>
+
+![Foto de entrevista](https://cdn.discordapp.com/attachments/1257109045723271192/1276971972672225330/image.png?ex=66cb7853&is=66ca26d3&hm=438e8569ec021aeff356b8b71aa8b3528b7cad205b5434810de70968a6c6423f&)
+
+URL: [Link de entrevista](https://drive.google.com/file/d/1GgzFpXSX2uaFr_GiZCo5utxRtd5Z-t24/view?usp=sharing "Entrevista 2")
+
+Inicio: 0:10<br>
+Duracion: 6:45
+
+Resumen:<br>
 
 ### 2.2.3. Análisis de entrevistas
 
