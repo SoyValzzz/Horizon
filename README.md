@@ -444,7 +444,7 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
  1. Entrevista 1: <br>
  Datos del entrevistado <br>
  Nombre: Franco <br>
- Apellidos: Farcés Zuñiga<br>
+ Apellidos: Garcés Zuñiga<br>
  Edad: 23 <br>
  Distrito: San Martin de Porres <br>
 
