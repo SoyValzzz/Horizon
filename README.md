@@ -440,7 +440,34 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 
 ### 2.2.2. Registro de entrevistas
 
+#### Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento
+
+
+#### Segmento 2: Equipo de Desarrollo de Software
+
+ 1. Entrevista 1: <br>
+ Datos del entrevistado <br>
+ Nombre: Fabricio <br>
+ Apellidos: Caysedo Salvador<br>
+ Edad: 19 <br>
+ Distrito: San Martin de Porres <br>
+ 
+ 
+ ![Foto de entrevista](https://media.discordapp.net/attachments/1048415872450039820/1276770578501730418/Captura_de_pantalla_2024-08-24_000557.png?ex=66cabcc3&is=66c96b43&hm=ee3d0b66f81e99aa57a94ec6397e3803683fd91ba55e81eeedf48e8393dcc0a5&=&format=webp&quality=lossless)
+ 
+ URL: [Link de entrevista](https://drive.google.com/file/d/1uXZ6G0zsHYuDO0gdae2g7U5mKxVTHGnG/view?usp=sharing "Entrevista 1") 
+
+ Inicio: 0:38<br>
+ Duracion: 6:52
+
+ Resumen:<br>
+ La entrevista con Fabricio proporciono informacion valiosa sobre como un integrante del equipo de desarrollo realiza sus actividades y sus principales desafios. Fabricio nos comenta que la diferencia de pensamientos es un gran problema para un flujo de trabajo continuo y la colaboracion. El no ha tenido malas experiencias con otras herramientas gracias a la capacitacion de las mismas. Por otro lado, el considera que la falta de herramientas innovadoras limita el trabajo en equipo, ya que es fundamental conocer un registro de lo avanzado por cada miembro. Asi mismo, El cree que las herramientas actualizadas que promueven la gestion y la colaboracion deberian ser muy precisas y fiables , pues algunas herramientas tienen fallas. El espera que las herramientas de gestion sean flexibles para adaptarlas a cada modelo de negocio de cada empresa.
+
 ### 2.2.3. Análisis de entrevistas
+
+#### Análisis Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento
+
+#### Análisis Segmento 2: Equipo de Desarrollo de Software
 
 ### 2.3. Needfinding
 
