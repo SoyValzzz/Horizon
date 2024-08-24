@@ -441,7 +441,17 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 ### 2.2.2. Registro de entrevistas
 
 #### Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento
+ 1. Entrevista 1: <br>
+ Datos del entrevistado <br>
+ Nombre: Franco <br>
+ Apellidos: Farcés Zuñiga<br>
+ Edad: 23 <br>
+ Distrito: San Martin de Porres <br>
 
+ Inicio: 0:00<br>
+ Duracion: 0:00
+ Resumen:<br>
+La entrevista con Franco Garcés, el Gerente de Grupo JPSP, reveló aspectos clave sobre la gestión de proyectos y el impacto de las herramientas que existen actualmente. El destacó que su principal responsabilidad es supervisar al equipo de desarrollo para cumplir con los plazos y estándares de calidad, mientras maneja el crecimiento rápido y los desafíos de integración tecnológica. Aunque también menciono que ha tenido experiencias mixtas con las herramientas actuales, principalmente debido a problemas de integración y personalización, considera esencial que las nuevas soluciones ofrezcan flexibilidad, integración fluida y capacidades avanzadas. La incorporación de tecnologías emergentes, como la inteligencia artificial, es vista como crucial para mejorar la eficiencia y la toma de decisiones. Además, se busca una solución que facilite la colaboración y la comunicación centralizada, y que esté dispuesta a adaptarse a las necesidades cambiantes del equipo. El entrevistado enfatiza la importancia de la seguridad y prioriza a los proveedores que brindan soporte confiable y pueden adaptar sus soluciones a los requisitos individuales. En el futuro, se espera una evolución hacia mayor automatización y herramientas que se adapten rápidamente a los cambios en los proyectos.
 
 #### Segmento 2: Equipo de Desarrollo de Software
 
