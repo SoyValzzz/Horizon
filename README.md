@@ -463,7 +463,7 @@ La entrevista con Fabricio proporcionó información valiosa sobre como un integ
 
 2.  Entrevista 2: <br>
     Datos del entrevistado <br>
-    Nombre: Agustin<br>
+    Nombre: Agustín<br>
     Apellidos: Aguilar Lindo<br>
     Edad: 21 <br>
     Distrito: San Borja <br>
@@ -476,6 +476,7 @@ Inicio: 0:10<br>
 Duracion: 6:45
 
 Resumen:<br>
+La entrevista a Agustín nos cuenta de primera mano la experiencia como practicante y como las herramientas de gestión actuales influyen. Nos cuenta que su líder de proyecto, para seguir las metodologías Agiles, programa muchas reuniones donde en muchas se redunda en los mismos temas, y el preferiría otra forma de comunicación, problema que podría solucionarse con un programa de gestión. Menciona que una herramienta habitual es GitHub, pero lo considera poco intuitivo y difícil de dominar. Cree firmemente que es necesario una herramienta que ponga más atención en la interfaz de usuario, y a la facilidad de personalizarla.
 
 ### 2.2.3. Análisis de entrevistas
 
