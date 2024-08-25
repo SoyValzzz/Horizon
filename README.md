@@ -454,6 +454,25 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
  Resumen:<br>
 La entrevista con Franco Garcés, lidel del Grupo JPSP, reveló aspectos clave sobre la gestión de proyectos y el impacto de las herramientas que existen actualmente. El destacó que su principal responsabilidad es supervisar al equipo de desarrollo para cumplir con los plazos y estándares de calidad, mientras maneja el crecimiento rápido y los desafíos de integración tecnológica. Aunque también menciono que ha tenido experiencias mixtas con las herramientas actuales, principalmente debido a problemas de integración y personalización, considera esencial que las nuevas soluciones ofrezcan flexibilidad, integración fluida y capacidades avanzadas. La incorporación de tecnologías emergentes, como la inteligencia artificial, es vista como crucial para mejorar la eficiencia y la toma de decisiones. Además, se busca una solución que facilite la colaboración y la comunicación centralizada, y que esté dispuesta a adaptarse a las necesidades cambiantes del equipo. El entrevistado enfatiza la importancia de la seguridad y prioriza a los proveedores que brindan soporte confiable y pueden adaptar sus soluciones a los requisitos individuales. En el futuro, se espera una evolución hacia mayor automatización y herramientas que se adapten rápidamente a los cambios en los proyectos.
 
+
+ 3. Entrevista 3: <br>
+ Datos del entrevistado <br>
+ Nombre: Nora <br>
+ Apellidos: Castro Manrique<br>
+ Edad: 42 <br>
+ Distrito: Pueblo Libre <br>
+ 
+ ![Foto de entrevista](https://cdn.discordapp.com/attachments/1274759574087270442/1277138646398537790/image.png?ex=66cc138d&is=66cac20d&hm=9556920f3d0a0a1a265a357130bf8f88e6490ba54ab2eab73fc697ed90068d4d&)
+ 
+ URL: [Link de entrevista](https://drive.google.com/file/d/11xswJuEZQy51WRqAmZDu0KfjyF-6rV-F/view?usp=sharing "Entrevista 3") 
+
+ Inicio: 0:40<br>
+ Duracion: 5:39
+
+ Resumen:<br>
+La entrevista con Nora reveló aspectos importantes sobre la gestión y flujo de trabajo. Se destacó que el trabajo en equipo es fundamental para el éxito de un proyecto, y que contar con herramientas de gestión y seguimiento efectivas es crucial para mantener la coordinación y el progreso del equipo. Además, se considera que, tecnologías emergentes como la inteligencia artificial serían de mucha ayuda. En un futuro, se espera que este tipo de tecnologías sumadas a herramientas existentes puedan ayudar a su adaptación para diferentes modelos de negocio y a agilizar el trabajo.
+
+
 #### Segmento 2: Equipo de Desarrollo de Software
 
  1. Entrevista 1: <br>
@@ -473,6 +492,27 @@ La entrevista con Franco Garcés, lidel del Grupo JPSP, reveló aspectos clave s
 
  Resumen:<br>
  La entrevista con Fabricio proporcionó información valiosa sobre como un integrante del equipo de desarrollo realiza sus actividades y sus principales desafios. Fabricio nos comenta que la diferencia de pensamientos es un gran problema para un flujo de trabajo continuo y la colaboración. El no ha tenido malas experiencias con otras herramientas gracias a la capacitacion de las mismas. Por otro lado, el considera que la falta de herramientas innovadoras limita el trabajo en equipo, ya que es fundamental conocer un registro de lo avanzado por cada miembro. Así mismo, El cree que las herramientas actualizadas que promueven la gestion y la colaboración deberian ser muy precisas y fiables , pues algunas herramientas tienen fallas. El espera que las herramientas de gestion sean flexibles para adaptarlas a cada modelo de negocio de cada empresa.
+
+
+
+ 
+ 3. Entrevista 3: <br>
+ Datos del entrevistado <br>
+ Nombre: Rodrigo <br>
+ Apellidos: Acosa Ramirez<br>
+ Edad: 22 <br>
+ Distrito: San Miguel <br>
+ 
+ ![Foto de entrevista](https://cdn.discordapp.com/attachments/1274759574087270442/1277106218263117896/image.png?ex=66cbf559&is=66caa3d9&hm=cd17ba7cfe17024c2aeb05fbdb32b59deb98bebf9f3fdb1d2a09a4fae44adfa8&)
+ 
+ URL: [Link de entrevista](https://drive.google.com/file/d/1aZ94C1wixcfQNa_dZCZSkIKiBnpPf91i/view?usp=sharing "Entrevista 3") 
+
+ Inicio: 0:50<br>
+ Duracion: 10:19
+
+ Resumen:<br>
+La entrevista con Rodrigo, reveló aspectos clave sobre cómo percibe su entorno de trabajo y los desafíos que enfrenta. Se destacó que herramientas poco intuitivas y sin seguimiente constante pueden ralentizar el trabajo, además que la flexiblidad y adaptabilidad son muy importantes a la hora de acelerar el mismo. Aunque ha logrado adaptarse a las herramientas disponibles, considera que lo detallado con aterioridad limita su eficiencia. Rodrigo espera que en el futuro se desarrollen herramientas que también ofrezcan la flexibilidad necesaria para ajustarse a diferentes entornos y metodologías de trabajo, y que implementen tecnologías emergentes.
+
 
 ### 2.2.3. Análisis de entrevistas
 
