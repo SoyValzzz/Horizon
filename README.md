@@ -443,8 +443,8 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 #### Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento
  1. Entrevista 1: <br>
  Datos del entrevistado <br>
- Nombre: Franco <br>
- Apellidos: Garcés Zuñiga<br>
+ Nombre: Juan <br>
+ Apellidos: de la Cruz<br>
  Edad: 23 <br>
  Distrito: San Martin de Porres <br>
 
