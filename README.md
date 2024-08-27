@@ -513,6 +513,8 @@ La entrevista a Agustín nos cuenta de primera mano la experiencia como practica
 
 </p>
 
+#### Segmento 2: Equipo de Desarrollo de Software
+
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3. User Journey Mapping
