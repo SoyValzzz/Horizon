@@ -511,6 +511,14 @@ User expectations| Espera una nueva herramienta que simplifique su carga de trab
 
 ### 3.2. User Stories
 
+
+|User Storiy ID| Título | Descripción |  
+|-|-|-|
+|HU01| Grafico radial de habilidades | Como lider de equipo, quiero que la plataforma refleje un gráfico radial sobre las debilidades y fortalezas de cada integrante |
+|HU02| Integración de cronogramas | Como lider de equipo, quiero poder sincronizar automáticamente fechas y actividades importantes  |
+|HU03| Alertas ante inactividad o paso de fecha limite | Como lider de equipo, quiero que la plataforma me mande notificaciones cuando algun miembro este inactivo o se haya pasado la fecha límite de entrega   |
+|HU04| Implementación de mensajes directos | Como usuario miembro de un equipo de software, quiero poder enviar mensajes directos al lider y a otros miembros  |
+
 ### 3.3. Impact Mapping 
 
 Metas |Actores | Impacto | Entregables
