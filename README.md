@@ -505,6 +505,14 @@ La entrevista a Agustín nos cuenta de primera mano la experiencia como practica
 
 ### 2.3.1. User Personas
 
+#### Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento
+
+<p align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1277913335978786838/Leonardo_Mendoza.png?ex=66cee509&is=66cd9389&hm=7573a02edc1dd4c476776d4f12e27ccc4ec04706762484a175aadc2825dde203&">
+
+</p>
+
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3. User Journey Mapping
