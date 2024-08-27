@@ -506,9 +506,6 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 | **Frustraciones:** Frustrado por la falta de herramientas innovadoras que limiten la colaboración y el seguimiento del progreso. | **Beneficios:** Herramientas de desarrollo que sean precisas, fiables, y que faciliten una colaboración efectiva. |
 | **Riesgos:** Preocupado por la falta de adaptación de las herramientas a los modelos de negocio y las necesidades específicas del equipo. | **Éxitos:** Un entorno de trabajo más colaborativo y eficiente con herramientas que se adaptan a las necesidades del equipo. |
 
-<div align="center">
-    <img src="https://media.discordapp.net/attachments/1246609784501833810/1275484304943616051/Captura_de_pantalla_2024-08-20_102209.png?ex=66cea093&is=66cd4f13&hm=96f58aad72c88a90c05777c310bcba420bd605cc1046d2a8788c584a660ce7ce&=&format=webp&quality=lossless" alt="Fabricio" width="200"/>
-</div>
 
 
 
