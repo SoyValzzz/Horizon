@@ -601,4 +601,14 @@ x|  | Aumento en la rentabilidad de la empresa | Implementacion de automatizaci�
 Elevar la eficiencia, calidad y rentabilidad de los proyectos en startups de desarrollo de software mediante la optimización de sus procesos de gestión de iniciativas| Equipo de Desarrollo de Software | Mejora de la colaboracion en grupos de trabajo | Creacion  de Tareas transparentes
 x|  | Reduccion del tiempo de organizacion en proyectos | Implementacion de cronogramas y calendarios integrados
 x| | Optimizacion del tiempo en tareas diarias | Integración de documentos de trabajo en tiempo real
+
 ### 3.4. Product Backlog
+
+|#Orden|User Story ID|Título|Descripción|Story Points <br> (1/2/3/5/8)|
+|-|-|-|-|-|
+|1|HU01|Grafico radial de habilidades|Como lider de equipo, quiero que la plataforma refleje un gráfico radial sobre las debilidades y fortalezas de cada integrante|5|
+|2|HU02|Integración de cronogramas	| Como lider de equipo, quiero poder sincronizar automáticamente fechas y actividades importantes|5| 
+|3|HU03|Alertas ante inactividad o paso de fecha limite	|Como lider de equipo, quiero que la plataforma me mande notificaciones cuando algun miembro este inactivo o se haya pasado la fecha límite de entrega|2| 
+|4|HU04|Implementación de mensajes directos|Como usuario miembro de un equipo de software, quiero poder enviar mensajes directos al lider y a otros miembros|3| 
+
+	
