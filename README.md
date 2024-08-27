@@ -488,29 +488,25 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 
 # Segmento 2: Fabricio (Equipo de Desarrollo de Software)
 
-| **Categoría**                  | **Detalles**                                                                                      |
-|--------------------------------|---------------------------------------------------------------------------------------------------|
-| **1. Qué Piensa y Siente**     |                                                                                                   |
-| Preocupaciones                 | Le preocupa que las herramientas actuales limiten la colaboración efectiva y el flujo de trabajo del equipo. |
-| Intereses                      | Está interesado en herramientas que mejoren la eficiencia y precisión en el desarrollo de software. |
-| Motivaciones                   | Desea trabajar con herramientas innovadoras que faciliten la colaboración y permitan un mejor seguimiento del progreso. |
-| Desafíos                       | Enfrenta desafíos al trabajar con herramientas que no se adaptan bien a las necesidades del equipo y a la falta de capacitación adecuada. |
-| **2. Qué Ve**                  |                                                                                                   |
-| Entorno                        | Observa que muchas herramientas están desactualizadas y no cumplen con las expectativas actuales del desarrollo de software. |
-| Competencia                    | Ve que otras empresas están usando herramientas más avanzadas y adaptativas.                       |
-| Tendencias                     | Nota una necesidad creciente de herramientas que promuevan una colaboración más efectiva y un registro preciso del trabajo. |
-| **3. Qué Dice y Hace**         |                                                                                                   |
-| Comunicación                   | Habla sobre la importancia de la precisión y fiabilidad de las herramientas y cómo estas impactan en su trabajo diario. |
-| Acciones                       | Participa en capacitaciones y busca herramientas que mejoren la colaboración y el seguimiento del progreso del equipo. |
-| **4. Qué Oye**                 |                                                                                                   |
-| Feedback del Equipo            | Escucha a sus compañeros expresar la necesidad de herramientas más actualizadas y la falta de eficacia de las herramientas actuales. |
-| Opiniones del Mercado          | Oye sobre nuevas soluciones y tecnologías que podrían ayudar a resolver problemas de colaboración y precisión. |
-| **5. Dolores**                 |                                                                                                   |
-| Frustraciones                  | Frustrado por la falta de herramientas innovadoras que limiten la colaboración y el seguimiento del progreso. |
-| Riesgos                        | Preocupado por la falta de adaptación de las herramientas a los modelos de negocio y las necesidades específicas del equipo. |
-| **6. Ganancias**               |                                                                                                   |
-| Beneficios                     | Herramientas de desarrollo que sean precisas, fiables, y que faciliten una colaboración efectiva. |
-| Éxitos                         | Un entorno de trabajo más colaborativo y eficiente con herramientas que se adaptan a las necesidades del equipo. |
+# Mapa de Empatía: Fabricio (Equipo de Desarrollo de Software)
+
+| **¿Qué Piensa y Siente?** | **¿Qué Ve?** |
+|---------------------------|--------------|
+| **Preocupaciones:** Le preocupa que las herramientas actuales limiten la colaboración efectiva y el flujo de trabajo del equipo. | **Entorno:** Observa que muchas herramientas están desactualizadas y no cumplen con las expectativas actuales del desarrollo de software. |
+| **Intereses:** Está interesado en herramientas que mejoren la eficiencia y precisión en el desarrollo de software. | **Competencia:** Ve que otras empresas están usando herramientas más avanzadas y adaptativas. |
+| **Motivaciones:** Desea trabajar con herramientas innovadoras que faciliten la colaboración y permitan un mejor seguimiento del progreso. | **Tendencias:** Nota una necesidad creciente de herramientas que promuevan una colaboración más efectiva y un registro preciso del trabajo. |
+| **Desafíos:** Enfrenta desafíos al trabajar con herramientas que no se adaptan bien a las necesidades del equipo y a la falta de capacitación adecuada. | |
+
+| **¿Qué Dice y Hace?** | **¿Qué Oye?** |
+|-----------------------|--------------|
+| **Comunicación:** Habla sobre la importancia de la precisión y fiabilidad de las herramientas y cómo estas impactan en su trabajo diario. | **Feedback del Equipo:** Escucha a sus compañeros expresar la necesidad de herramientas más actualizadas y la falta de eficacia de las herramientas actuales. |
+| **Acciones:** Participa en capacitaciones y busca herramientas que mejoren la colaboración y el seguimiento del progreso del equipo. | **Opiniones del Mercado:** Oye sobre nuevas soluciones y tecnologías que podrían ayudar a resolver problemas de colaboración y precisión. |
+
+| **Dolores** | **Ganancias** |
+|-------------|---------------|
+| **Frustraciones:** Frustrado por la falta de herramientas innovadoras que limiten la colaboración y el seguimiento del progreso. | **Beneficios:** Herramientas de desarrollo que sean precisas, fiables, y que faciliten una colaboración efectiva. |
+| **Riesgos:** Preocupado por la falta de adaptación de las herramientas a los modelos de negocio y las necesidades específicas del equipo. | **Éxitos:** Un entorno de trabajo más colaborativo y eficiente con herramientas que se adaptan a las necesidades del equipo. |
+
 
 
 
