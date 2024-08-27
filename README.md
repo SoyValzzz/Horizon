@@ -488,7 +488,6 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 
 # Segmento 2: Fabricio (Equipo de Desarrollo de Software)
 
-# Mapa de Empatía: Fabricio (Equipo de Desarrollo de Software)
 
 | **¿Qué Piensa y Siente?** | **¿Qué Ve?** |
 |---------------------------|--------------|
