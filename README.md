@@ -486,7 +486,9 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 
 ### 2.3.4. Empathy Mapping
 
-| **Fabricio (Equipo de Desarrollo de Software)**                                                                                   |
+# Segmento 2: Fabricio (Equipo de Desarrollo de Software)
+
+| **Categoría**                  | **Detalles**                                                                                      |
 |--------------------------------|---------------------------------------------------------------------------------------------------|
 | **1. Qué Piensa y Siente**     |                                                                                                   |
 | Preocupaciones                 | Le preocupa que las herramientas actuales limiten la colaboración efectiva y el flujo de trabajo del equipo. |
@@ -509,6 +511,7 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 | **6. Ganancias**               |                                                                                                   |
 | Beneficios                     | Herramientas de desarrollo que sean precisas, fiables, y que faciliten una colaboración efectiva. |
 | Éxitos                         | Un entorno de trabajo más colaborativo y eficiente con herramientas que se adaptan a las necesidades del equipo. |
+
 
 
 
