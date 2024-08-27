@@ -486,15 +486,13 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 
 ### 2.3.4. Empathy Mapping
 
-
-
-|                                                  **Fabricio (Equipo de Desarrollo de Software)**                                    |
+| **Fabricio (Equipo de Desarrollo de Software)**                                                                                   |
 |--------------------------------|---------------------------------------------------------------------------------------------------|
-| **1. Qué Piensa y Siente**                                                                                                      |
-| Preocupaciones                  Le preocupa que las herramientas actuales limiten la colaboración efectiva y el flujo de trabajo del equipo. |
-| Intereses                       Está interesado en herramientas que mejoren la eficiencia y precisión en el desarrollo de software. |
-| Motivaciones                   Desea trabajar con herramientas innovadoras que faciliten la colaboración y permitan un mejor seguimiento del progreso. |
-| Desafíos                        Enfrenta desafíos al trabajar con herramientas que no se adaptan bien a las necesidades del equipo y a la falta de capacitación adecuada. |
+| **1. Qué Piensa y Siente**     |                                                                                                   |
+| Preocupaciones                 | Le preocupa que las herramientas actuales limiten la colaboración efectiva y el flujo de trabajo del equipo. |
+| Intereses                      | Está interesado en herramientas que mejoren la eficiencia y precisión en el desarrollo de software. |
+| Motivaciones                   | Desea trabajar con herramientas innovadoras que faciliten la colaboración y permitan un mejor seguimiento del progreso. |
+| Desafíos                       | Enfrenta desafíos al trabajar con herramientas que no se adaptan bien a las necesidades del equipo y a la falta de capacitación adecuada. |
 | **2. Qué Ve**                  |                                                                                                   |
 | Entorno                        | Observa que muchas herramientas están desactualizadas y no cumplen con las expectativas actuales del desarrollo de software. |
 | Competencia                    | Ve que otras empresas están usando herramientas más avanzadas y adaptativas.                       |
