@@ -389,27 +389,7 @@ Para poder tener un análisis completo sobre nuestro modelo de negocio además d
 |                                            | Amenazas                                                      | XXXX            | Competencia creciente con <br>herramientas más accesibles <br>y económicas.                                                                                                                                                                                                                                      | Competencia con<br> herramientas que ofrecen <br>más funciones por un costo<br> similar.                                                                                                           | La competencia con<br> herramientas establecidas <br>que tienen una base de<br> usuarios leal.                                                                                                                    |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
-#### 1. Asociación con Organizaciones e Influencers Relevantes
-Estrategia: Identificaremos organizaciones e influencers respetados en la comunidad de startups tecnológicas para ampliar nuestra visibilidad y generar confianza en nuestra marca.
 
-Implementación:
-
-Colaboración en contenido y eventos: Colaboraremos con incubadoras, aceleradoras y expertos en tecnología para crear contenido compartido, participar en eventos y promociones que beneficien a ambas partes.
-Posicionamiento como líder de pensamiento: Utilizaremos estas asociaciones para compartir nuestra experiencia y conocimientos, aumentando así nuestra visibilidad y credibilidad dentro del mercado objetivo.
-#### 2. Respaldo de las Afirmaciones con Evidencia Sólida
-Estrategia: Compartiremos resultados cuantificables y específicos que demuestren el impacto real de nuestro software en la eficiencia y éxito de startups tecnológicas.
-
-Implementación:
-
-Demostraciones y casos de estudio: Desarrollaremos y publicaremos estudios de caso que muestren cómo nuestras funcionalidades de IA han mejorado la gestión de proyectos y optimizado procesos en startups reales.
-Análisis predictivos: Mostraremos ejemplos concretos de cómo nuestras herramientas de análisis predictivo han ayudado a predecir problemas y mejorar la asignación de recursos.
-#### 3. Construcción de Relaciones Sólidas con los Clientes
-Estrategia: Nos enfocaremos en construir relaciones duraderas con nuestros clientes, comprendiendo mejor sus necesidades y brindando un servicio personalizado que supere sus expectativas.
-
-Implementación:
-
-Onboarding personalizado: Ofreceremos un proceso de incorporación altamente personalizado que incluya sesiones de configuración inicial, check-ins regulares, y soporte especializado para startups tecnológicas.
-Servicio al cliente excepcional: Brindaremos un servicio al cliente amigable, servicial y eficiente, asegurándonos de que cada interacción refuerce la confianza y satisfacción del cliente con nuestra herramienta.
 ### 2.2. Entrevistas
 
 En esta sección del informe se realizará el diseño, registro y análisis de las entrevistas de nuestros segmentos objetivos
@@ -502,7 +482,22 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 
 ### 2.3.2. User Task Matrix
 
-### 2.3.3. User Journey Mapping
+### 2.3.3. User Journey Mapping *
+
+#### User Journey Mapping - Líder o Gerente de Empresa de Desarrollo de Software
+XXX | Visualizacion | Obtencion | Funcionalidad| Uso
+--- | ------------- | --------- | -------------| ---
+User actions| Identifica problemas en la gestión de proyectos, como la falta de eficiencia o sobrecostos. | Revisa varias opciones y solicita demostraciones. | Coordina la implementación del servicio, asigna roles y responsabilidades. | Monitorea los resultados a través de paneles de control.
+Experience|  Preocupación por el rendimiento de los proyectos y la necesidad de mejorar la rentabilidad. | Toma decisiones basadas en la funcionalidad y costos. | Preocupación por el cambio en la cultura | Satisfacción al ver mejoras en la eficiencia y calidad de los proyectos.
+User expectations| Un servicio que aborde sus problemas específicos de manera eficaz. | Una herramienta intuitiva que pueda integrarse fácilmente con los sistemas actuales |  Una transición sin problemas, con un soporte técnico eficiente | Mejoras continuas en la productividad y rentabilidad.
+
+#### User Journey Mapping - Equipo de Desarrollo de Software
+
+XXX | Visualizacion | Obtencion | Funcionalidad| Uso
+--- | ------------- | --------- | -------------| ---
+User actions| Se da cuenta de que los procesos actuales son ineficientes. | Participa en las demostraciones o pruebas de la herramienta | Completa la capacitación requerida, configura la herramienta según sus necesidades | Utiliza la herramienta diariamente para gestionar tareas, colaborar con el equipo y cumplir con los plazos de los proyectos.
+Experience| Interés en cómo una nueva herramienta podría facilitar su trabajo. | Crítica de la herramienta basada en su experiencia | Curiosidad sobre cómo la nueva herramienta afectará su productividad | Aprecio por las mejoras en la gestión de proyectos.
+User expectations| Espera una nueva herramienta que simplifique su carga de trabajo . | Nueva herramienta sea fácil de aprender | Espera que la curva de aprendizaje sea corta |Espera que el servicio mejore la colaboracion.
 
 ### 2.3.4. Empathy Mapping
 
@@ -516,6 +511,13 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 
 ### 3.2. User Stories
 
-### 3.3. Impact Mapping
+### 3.3. Impact Mapping 
 
+Metas |Actores | Impacto | Entregables
+----- |------- | ------- | -----------
+x| Líder o Gerente de Empresa | Mejora en la productividad | Implementacion de notificaciones y alertas personalizadas
+x|  | Aumento en la rentabilidad de la empresa | Implementacion de automatización de Procesos
+Elevar la eficiencia, calidad y rentabilidad de los proyectos en startups de desarrollo de software mediante la optimización de sus procesos de gestión de iniciativas| Equipo de Desarrollo de Software | Mejora de la colaboracion en grupos de trabajo | Creacion  de Tareas transparentes
+x|  | Reduccion del tiempo de organizacion en proyectos | Implementacion de cronogramas y calendarios integrados
+x| | Optimizacion del tiempo en tareas diarias | Integración de documentos de trabajo en tiempo real
 ### 3.4. Product Backlog
