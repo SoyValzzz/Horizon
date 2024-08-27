@@ -484,7 +484,7 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 
 # Comparación de Tareas: Fabricio vs. María
 
-| **Tarea**                                             | **FABRICIO Frecuencia ** | **FABRICIO Importancia** | **MARÍA Frecuencia** | **MARÍA Importancia** |
+| **Tarea**                                             | **FABRICIO Frecuencia** | **FABRICIO Importancia** | **MARÍA Frecuencia** | **MARÍA Importancia** |
 |-------------------------------------------------------|-------------------------------|-------------------------------|----------------------------|----------------------------|
 | Monitorear operaciones y gestionar proyectos         | A menudo                      | Alta                          | A menudo                   | Alta                       |
 | Evaluar y seleccionar software de gestión de proyectos| A veces                       | Alta                          | A veces                    | Alta                       |
