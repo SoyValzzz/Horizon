@@ -482,19 +482,21 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 
 ### 2.3.2. User Task Matrix
 
+# Comparación de Tareas: Fabricio vs. María
 
-| **Tarea**                                             | **Frecuencia para Fabricio** | **Importancia para Fabricio** | **Frecuencia para María** | **Importancia para María** |
+| **Tarea**                                             | **FABRICIO Frecuencia ** | **FABRICIO Importancia** | **MARÍA Frecuencia** | **MARÍA Importancia** |
 |-------------------------------------------------------|-------------------------------|-------------------------------|----------------------------|----------------------------|
-| Monitorear operaciones y gestionar proyectos         | Diaria                        | Alta                          | Diaria                     | Alta                       |
-| Evaluar y seleccionar software de gestión de proyectos| Según necesidad               | Alta                          | Según necesidad            | Alta                       |
-| Verificar la adaptabilidad y facilidad de uso del software | Según necesidad           | Alta                          | Según necesidad            | Alta                       |
-| Asegurarse de que el software tenga seguridad de datos | Según necesidad            | Alta                          | Según necesidad            | Alta                       |
+| Monitorear operaciones y gestionar proyectos         | A menudo                      | Alta                          | A menudo                   | Alta                       |
+| Evaluar y seleccionar software de gestión de proyectos| A veces                       | Alta                          | A veces                    | Alta                       |
+| Verificar la adaptabilidad y facilidad de uso del software | A veces                   | Alta                          | A veces                    | Alta                       |
+| Asegurarse de que el software tenga seguridad de datos | A veces                    | Alta                          | A veces                    | Alta                       |
 | Investigar sobre nuevas tecnologías e IA aplicadas a la gestión de proyectos | Mensual | Media                         | Mensual                    | Media                      |
-| Utilizar herramientas de desarrollo para colaboración | Diaria                        | Alta                          | Diaria                     | Alta                       |
-| Conducir capacitaciones sobre nuevas herramientas    | Según necesidad               | Media                         | Según necesidad            | Media                      |
+| Utilizar herramientas de desarrollo para colaboración | A menudo                      | Alta                          | A menudo                   | Alta                       |
+| Conducir capacitaciones sobre nuevas herramientas    | A veces                       | Media                         | A veces                    | Media                      |
 | Evaluar la precisión y fiabilidad de las herramientas usadas | Mensual                   | Alta                          | Mensual                    | Alta                       |
-| Adaptar herramientas a los modelos de negocio específicos | Según necesidad            | Alta                          | Según necesidad            | Alta                       |
-| Mantener un registro del avance de cada miembro del equipo | Diaria                       | Alta                          | Diaria                     | Alta                       |
+| Adaptar herramientas a los modelos de negocio específicos | A veces                    | Alta                          | A veces                    | Alta                       |
+| Mantener un registro del avance de cada miembro del equipo | A menudo                    | Alta                          | A menudo                   | Alta                       |
+
 
 
 ### 2.3.3. User Journey Mapping
