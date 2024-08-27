@@ -486,6 +486,27 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 
 ### 2.3.4. Empathy Mapping
 
+# Segmento 1: María (Líder/Gerente de Proyecto)
+
+| **¿Qué Piensa y Siente?**                                                                 | **¿Qué Ve?**                                                                                              |
+|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Preocupaciones:** Necesita garantizar que todos los proyectos se gestionen eficazmente y que el equipo alcance los objetivos establecidos. | **Entorno:** Observa un entorno empresarial donde muchas empresas aún usan herramientas anticuadas. |
+| **Intereses:** Está interesada en nuevas tecnologías y en cómo pueden mejorar la gestión de proyectos. | **Competencia:** Ve que la competencia está adoptando nuevas tecnologías y herramientas más avanzadas. |
+| **Motivaciones:** Quiere un software intuitivo y adaptable que mejore la eficiencia del equipo y proteja los datos de la empresa. | **Tendencias:** Nota una creciente integración de la inteligencia artificial en la gestión de proyectos. |
+| **Desafíos:** Lidiar con herramientas obsoletas y encontrar soluciones que se adapten a las necesidades cambiantes de la empresa. | |
+
+| **¿Qué Dice y Hace?**                                                                 | **¿Qué Oye?**                                                                                                  |
+|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| **Comunicación:** Habla sobre la necesidad de modernizar el software y la importancia de la seguridad de los datos. | **Feedback del Equipo:** Recibe comentarios de su equipo sobre la falta de funcionalidad en las herramientas actuales y las necesidades de capacitación. |
+| **Acciones:** Busca constantemente nuevas soluciones y herramientas que puedan integrarse y ser útiles para la empresa. | **Opiniones del Mercado:** Escucha sobre nuevas tecnologías y herramientas que podrían ser beneficiosas para su empresa. |
+
+| **Dolores**                                                                                       | **Ganancias**                                                                                                    |
+|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| **Frustraciones:** Experimenta frustraciones con las herramientas obsoletas y la falta de opciones intuitivas que se adapten a sus necesidades. | **Beneficios:** Una solución moderna y segura que facilite la gestión de proyectos y mejore la colaboración del equipo. |
+| **Riesgos:** Preocupada por la seguridad de los datos y la posible falta de protección que puedan ofrecer las herramientas actuales. | **Éxitos:** La implementación exitosa de un software eficiente que permita al equipo alcanzar sus metas con mayor facilidad. |
+
+
+
 # Segmento 2: Fabricio (Equipo de Desarrollo de Software)
 
 
