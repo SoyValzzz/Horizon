@@ -449,6 +449,22 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 
 #### Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento
 
+2.  Entrevista 2: <br>
+    Datos del entrevistado <br>
+    Nombre: María<br>
+    Apellidos: Gutiérrez<br>
+    Edad: 26 <br>
+    Distrito: San Isidro <br>
+
+![Foto de entrevista](https://cdn.discordapp.com/attachments/1257109045723271192/1277323905102643262/image.png?ex=66ccc016&is=66cb6e96&hm=d40e669ac1a0dc296f2b6c9b8b2c106b6bb6e2b70f61e5970b8596d42e7d973d&)
+
+URL: [Link de entrevista](https://drive.google.com/file/d/1URH3QIgHteG1cNFRdPeFrunflBu3zA8j/view?usp=sharing "Entrevista 2")
+
+Inicio: 0:18<br>
+Duracion: 6:17
+
+Resumen:<br>
+La entrevista con María nos comenta que en su trabajo como líder de proyecto su principal responsabilidad es monitorear todas las operaciones y gestionarlas para lograr el óptimo desarrollo. Considera que las empresas deben empezar a utilizar nuevos programas para la gestión de proyecto, pues las que usan están quedando obsoletas. También nos cuenta de la importancia de que este nuevo programa debe ser intuitiva y fácil de usar, además de ser adaptable para cualquier dispositivo con acceso a internet. Nos comenta su interés de la IA en estos programas está relacionada con todos los logros que han logrado y que ella misma también usa cuando trabaja. Con su experiencia resalta que debe ser poner atención cuando busques una empresa que te ofrezca este producto, es importante que el software pueda adaptarse a sus necesidades y tenga la seguridad de que protegerá sus datos.
 
 
  3. Entrevista 3: <br>
@@ -471,23 +487,39 @@ La entrevista con Nora reveló aspectos importantes sobre la gestión y flujo de
 
 #### Segmento 2: Equipo de Desarrollo de Software
 
- 1. Entrevista 1: <br>
- Datos del entrevistado <br>
- Nombre: Fabricio <br>
- Apellidos: Caysedo Salvador<br>
- Edad: 19 <br>
- Distrito: San Martin de Porres <br>
- 
- 
- ![Foto de entrevista](https://media.discordapp.net/attachments/1048415872450039820/1276770578501730418/Captura_de_pantalla_2024-08-24_000557.png?ex=66cabcc3&is=66c96b43&hm=ee3d0b66f81e99aa57a94ec6397e3803683fd91ba55e81eeedf48e8393dcc0a5&=&format=webp&quality=lossless)
- 
- URL: [Link de entrevista](https://drive.google.com/file/d/1uXZ6G0zsHYuDO0gdae2g7U5mKxVTHGnG/view?usp=sharing "Entrevista 1") 
+1.  Entrevista 1: <br>
+    Datos del entrevistado <br>
+    Nombre: Fabricio <br>
+    Apellidos: Caysedo Salvador<br>
+    Edad: 19 <br>
+    Distrito: San Martin de Porres <br>
 
- Inicio: 0:38<br>
- Duracion: 6:52
+![Foto de entrevista](https://media.discordapp.net/attachments/1048415872450039820/1276770578501730418/Captura_de_pantalla_2024-08-24_000557.png?ex=66cabcc3&is=66c96b43&hm=ee3d0b66f81e99aa57a94ec6397e3803683fd91ba55e81eeedf48e8393dcc0a5&=&format=webp&quality=lossless)
 
- Resumen:<br>
- La entrevista con Fabricio proporcionó información valiosa sobre como un integrante del equipo de desarrollo realiza sus actividades y sus principales desafios. Fabricio nos comenta que la diferencia de pensamientos es un gran problema para un flujo de trabajo continuo y la colaboración. El no ha tenido malas experiencias con otras herramientas gracias a la capacitacion de las mismas. Por otro lado, el considera que la falta de herramientas innovadoras limita el trabajo en equipo, ya que es fundamental conocer un registro de lo avanzado por cada miembro. Así mismo, El cree que las herramientas actualizadas que promueven la gestion y la colaboración deberian ser muy precisas y fiables , pues algunas herramientas tienen fallas. El espera que las herramientas de gestion sean flexibles para adaptarlas a cada modelo de negocio de cada empresa.
+URL: [Link de entrevista](https://drive.google.com/file/d/1uXZ6G0zsHYuDO0gdae2g7U5mKxVTHGnG/view?usp=sharing "Entrevista 1")
+
+Inicio: 0:38<br>
+Duracion: 6:52
+
+Resumen:<br>
+La entrevista con Fabricio proporcionó información valiosa sobre como un integrante del equipo de desarrollo realiza sus actividades y sus principales desafios. Fabricio nos comenta que la diferencia de pensamientos es un gran problema para un flujo de trabajo continuo y la colaboración. El no ha tenido malas experiencias con otras herramientas gracias a la capacitacion de las mismas. Por otro lado, el considera que la falta de herramientas innovadoras limita el trabajo en equipo, ya que es fundamental conocer un registro de lo avanzado por cada miembro. Así mismo, El cree que las herramientas actualizadas que promueven la gestion y la colaboración deberian ser muy precisas y fiables , pues algunas herramientas tienen fallas. El espera que las herramientas de gestion sean flexibles para adaptarlas a cada modelo de negocio de cada empresa.
+
+2.  Entrevista 2: <br>
+    Datos del entrevistado <br>
+    Nombre: Agustín<br>
+    Apellidos: Aguilar Lindo<br>
+    Edad: 21 <br>
+    Distrito: San Borja <br>
+
+![Foto de entrevista](https://cdn.discordapp.com/attachments/1257109045723271192/1276971972672225330/image.png?ex=66cb7853&is=66ca26d3&hm=438e8569ec021aeff356b8b71aa8b3528b7cad205b5434810de70968a6c6423f&)
+
+URL: [Link de entrevista](https://drive.google.com/file/d/1GgzFpXSX2uaFr_GiZCo5utxRtd5Z-t24/view?usp=sharing "Entrevista 2")
+
+Inicio: 0:10<br>
+Duracion: 6:45
+
+Resumen:<br>
+La entrevista a Agustín nos cuenta de primera mano la experiencia como practicante y como las herramientas de gestión actuales influyen. Nos cuenta que su líder de proyecto, para seguir las metodologías Agiles, programa muchas reuniones donde en muchas se redunda en los mismos temas, y el preferiría otra forma de comunicación, problema que podría solucionarse con un programa de gestión. Menciona que una herramienta habitual es GitHub, pero lo considera poco intuitivo y difícil de dominar. Cree firmemente que es necesario una herramienta que ponga más atención en la interfaz de usuario, y a la facilidad de personalizarla.
 
 
 
@@ -519,6 +551,16 @@ La entrevista con Rodrigo, reveló aspectos clave sobre cómo percibe su entorno
 ### 2.3. Needfinding
 
 ### 2.3.1. User Personas
+
+#### Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento
+
+<p align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1277913335978786838/Leonardo_Mendoza.png?ex=66cee509&is=66cd9389&hm=7573a02edc1dd4c476776d4f12e27ccc4ec04706762484a175aadc2825dde203&">
+
+</p>
+
+#### Segmento 2: Equipo de Desarrollo de Software
 
 ### 2.3.2. User Task Matrix
 
