@@ -67,6 +67,13 @@ Product: ManageWise
       2. [User Task Matrix](#232-user-task-matrix)
       3. [User Journey Mapping](#233-user-journey-mapping)
       4. [Empathy Mapping](#234-empathy-mapping)
+      5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)
+   4. [Ubiquitous Language](#24-ubiquitous-language)
+3. [**Capítulo II: Requirements Specification**](#capítulo-iii-requirements-specification)
+   1. [To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+   2. [User Stories](#32-user-stories)
+   3. [Impact Mapping](#33-impact-mapping)
+   4. [Product Backlog](#34-product-backlog)
 
 ## Student Outcome
 
@@ -370,16 +377,16 @@ Para poder tener un análisis completo sobre nuestro modelo de negocio además d
 | Nombre de <br>los Startups <br> o Empresas |                                                               | Nuestra startup | Competidor 1                                                                                                                                                                                                                                                                                                     | Competidor 2                                                                                                                                                                                       | Competidor 3                                                                                                                                                                                                      |
 | ------------------------------------------ | ------------------------------------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Perfil                                     | Overview                                                      | Horizon         | Wrike                                                                                                                                                                                                                                                                                                            | Trello                                                                                                                                                                                             | ClickUp                                                                                                                                                                                                           |
-|                                            | Ventaja competitiva:<br>¿Qué valor ofrece<br> a los clientes? | XXXX            | ofrece análisis predictivos,<br> automatización avanzada y <br>herramientas de colaboración <br>que permiten a los equipos<br> mejorar la productividad y <br>la visibilidad del proyecto<br> en tiempo real.                                                                                                    | Proporciona una interfaz <br>intuitiva y fácil de usar,<br> ideal para equipos pequeños<br> y startups que buscan <br>simplicidad en la gestión <br>de tareas.                                     | Proporciona una solución <br>altamente personalizable <br>que puede adaptarse a <br>diferentes necesidades <br>empresariales, integrando <br>gestión de tareas, tiempo <br>y recursos en una sola <br>plataforma. |
-| Perfil de Marketing                        | Mercado Objetivo                                              | XXXX            | Empresas medianas a grandes,<br> así como equipos de proyectos <br>complejos que requieren <br>integración y colaboración <br>avanzadas.                                                                                                                                                                         | Equipos pequeños, startups<br> y empresas que necesitan <br>una herramienta <br>de gestión de proyectos <br>visual y simple.                                                                       | Startups, pequeñas y medianas <br>empresas que buscan una <br>herramienta flexible y completa <br>para la gestión de proyectos.                                                                                   |
-|                                            | Estrategias de Marketing                                      | XXXX            | Wrike se posiciona como una <br>herramienta robusta y flexible <br>para equipos que necesitan <br>mejorar la eficiencia operativa <br>y la gestión de proyectos. <br>Su estrategia incluye <br>demostraciones personalizadas <br>y un enfoque en las <br>integraciones con otras <br>herramientas empresariales. | Se enfoca en la simplicidad <br>y la accesibilidad, <br>promocionando su facilidad <br>de uso y la posibilidad de <br>integrarse con herramientas <br>populares como Slack y <br>Google Workspace. | Se posiciona como una alternativa<br> más económica y todo-en-uno a <br>las herramientas tradicionales de <br>gestión de proyectos, con un <br>fuerte enfoque en la personalización<br> y la escalabilidad.       |
-| Perfil del producto                        | Productos y servicios                                         | XXXX            | Ofrece un conjunto completo de <br>herramientas de gestión de <br>proyectos, desde la planificación <br>hasta la ejecución, incluyendo <br>paneles de control, cronogramas <br>de Gantt y flujos de trabajo<br> automatizados.                                                                                   | Ofrece tableros Kanban para<br> la gestión de proyectos, con<br> opciones de listas de tareas,<br> etiquetas y archivos adjuntos                                                                   | Ofrece una amplia gama de <br>herramientas para la gestión de <br>tareas, seguimiento del tiempo, <br>automatización de flujos de <br>trabajo y colaboración en equipo.                                           |
-|                                            | Precios y Costos                                              | XXXX            | Sus planes varían desde versiones <br>gratuitas limitadas hasta <br>suscripciones empresariales <br>premium, comenzando en<br>aproximadamente $9.80 por<br> usuario/mes.                                                                                                                                         | Ofrece una versión gratuita<br> con limitaciones y planes <br>premium que comienzan en <br>$5 por usuario/mes.                                                                                     | Plan gratuito robusto y planes <br>pagos que comienzan en $5 <br>por usuario/mes.                                                                                                                                 |
-|                                            | Canales de distribución <br>(Web y/o Móvil)                   | XXXX            | Se distribuye principalmente a <br>través de su sitio web oficial,<br> con soporte adicional en <br>aplicaciones móviles y a través<br> de integraciones con plataformas<br> como Microsoft Teams y <br>Salesforce.                                                                                              | Distribuido principalmente a <br>través de su sitio web oficial,<br> y también disponible en <br>aplicaciones móviles para iOS <br>y Android.                                                      | Se distribuye a través de su<br> sitio web y tiene aplicaciones<br> para dispositivos móviles,<br> además de extensiones <br>para navegadores.                                                                    |
-| Análisis SWOT                              | Fortalezas                                                    | XXXX            | Funcionalidad robusta,<br> integración con otras herramientas<br> empresariales, análisis predictivo.                                                                                                                                                                                                            | Interfaz intuitiva, amplia <br>accesibilidad, integración<br> con múltiples herramientas.                                                                                                          | Altamente personalizable,<br> excelente relación calidad-precio,<br> fuerte integración.                                                                                                                          |
-|                                            | Debilidades                                                   | XXXX            | Curva de aprendizaje<br> pronunciada para nuevos usuarios.                                                                                                                                                                                                                                                       | Limitaciones en funciones <br>avanzadas para la gestión<br> de proyectos complejos.                                                                                                                | Puede ser abrumador para <br>usuarios nuevos debido<br> a su vasta cantidad de funciones.                                                                                                                         |
-|                                            | Oportunidades                                                 | XXXX            | Expansión en mercados emergentes,<br> desarrollo de nuevas <br> funcionalidades de IA.                                                                                                                                                                                                                           | Expansión de integraciones <br>y nuevas funcionalidades<br> para grandes equipos.                                                                                                                  | Expansión en mercados globales, <br>mejoras continuas en <br>automatización y AI.                                                                                                                                 |
-|                                            | Amenazas                                                      | XXXX            | Competencia creciente con <br>herramientas más accesibles <br>y económicas.                                                                                                                                                                                                                                      | Competencia con<br> herramientas que ofrecen <br>más funciones por un costo<br> similar.                                                                                                           | La competencia con<br> herramientas establecidas <br>que tienen una base de<br> usuarios leal.                                                                                                                    |
+|                                            | Ventaja competitiva:<br>¿Qué valor ofrece<br> a los clientes? | Proporciona una interfaz intuitiva <br>y fácil de usar, en la que Lo usan<br> antes, durante y después del<br> Ciclo de Vida del Desarrollo de<br> Software.             | ofrece análisis predictivos,<br> automatización avanzada y <br>herramientas de colaboración <br>que permiten a los equipos<br> mejorar la productividad y <br>la visibilidad del proyecto<br> en tiempo real.                                                                                                    | Proporciona una interfaz <br>intuitiva y fácil de usar,<br> ideal para equipos pequeños<br> y startups que buscan <br>simplicidad en la gestión <br>de tareas.                                     | Proporciona una solución <br>altamente personalizable <br>que puede adaptarse a <br>diferentes necesidades <br>empresariales, integrando <br>gestión de tareas, tiempo <br>y recursos en una sola <br>plataforma. |
+| Perfil de Marketing                        | Mercado Objetivo                                              | Startups de tecnología que buscan<br> mejorar la eficiencia y la colaboración<br> en sus equipos de desarrollo            | Empresas medianas a grandes,<br> así como equipos de proyectos <br>complejos que requieren <br>integración y colaboración <br>avanzadas.                                                                                                                                                                         | Equipos pequeños, startups<br> y empresas que necesitan <br>una herramienta <br>de gestión de proyectos <br>visual y simple.                                                                       | Startups, pequeñas y medianas <br>empresas que buscan una <br>herramienta flexible y completa <br>para la gestión de proyectos.                                                                                   |
+|                                            | Estrategias de Marketing                                      | Uso de marketing digital dirigido<br> a comunidades tecnológicas, con <br> pruebas gratuitas y asociaciones<br> estratégicas            | Wrike se posiciona como una <br>herramienta robusta y flexible <br>para equipos que necesitan <br>mejorar la eficiencia operativa <br>y la gestión de proyectos. <br>Su estrategia incluye <br>demostraciones personalizadas <br>y un enfoque en las <br>integraciones con otras <br>herramientas empresariales. | Se enfoca en la simplicidad <br>y la accesibilidad, <br>promocionando su facilidad <br>de uso y la posibilidad de <br>integrarse con herramientas <br>populares como Slack y <br>Google Workspace. | Se posiciona como una alternativa<br> más económica y todo-en-uno a <br>las herramientas tradicionales de <br>gestión de proyectos, con un <br>fuerte enfoque en la personalización<br> y la escalabilidad.       |
+| Perfil del producto                        | Productos y servicios                                         | Plataforma que ofrece un sistema <br>de colaboración en tiempo real <br>con características como edición <br>simultánea de documentos y un <br>espacio de trabajo unificado,<br> permitiendo a los equipos trabajar<br> de manera más eficiente y<br> conectada.           | Ofrece un conjunto completo de <br>herramientas de gestión de <br>proyectos, desde la planificación <br>hasta la ejecución, incluyendo <br>paneles de control, cronogramas <br>de Gantt y flujos de trabajo<br> automatizados.                                                                                   | Ofrece tableros Kanban para<br> la gestión de proyectos, con<br> opciones de listas de tareas,<br> etiquetas y archivos adjuntos                                                                   | Ofrece una amplia gama de <br>herramientas para la gestión de <br>tareas, seguimiento del tiempo, <br>automatización de flujos de <br>trabajo y colaboración en equipo.                                           |
+|                                            | Precios y Costos                                              | Planes escalables, comenzando <br>con versiones gratuitas para<br> atraer startups en etapas iniciales            | Sus planes varían desde versiones <br>gratuitas limitadas hasta <br>suscripciones empresariales <br>premium, comenzando en<br>aproximadamente $9.80 por<br> usuario/mes.                                                                                                                                         | Ofrece una versión gratuita<br> con limitaciones y planes <br>premium que comienzan en <br>$5 por usuario/mes.                                                                                     | Plan gratuito robusto y planes <br>pagos que comienzan en $5 <br>por usuario/mes.                                                                                                                                 |
+|                                            | Canales de distribución <br>(Web y/o Móvil)                   | La plataforma se ofrecerá <br>como un servicio web basado<br> en la nube (SaaS), accesible<br> desde cualquier navegador, <br>con integraciones clave como <br>Slack y Google Workspace.            | Se distribuye principalmente a <br>través de su sitio web oficial,<br> con soporte adicional en <br>aplicaciones móviles y a través<br> de integraciones con plataformas<br> como Microsoft Teams y <br>Salesforce.                                                                                              | Distribuido principalmente a <br>través de su sitio web oficial,<br> y también disponible en <br>aplicaciones móviles para iOS <br>y Android.                                                      | Se distribuye a través de su<br> sitio web y tiene aplicaciones<br> para dispositivos móviles,<br> además de extensiones <br>para navegadores.                                                                    |
+| Análisis SWOT                              | Fortalezas                                                    | Innovación en colaboración<br> en tiempo real, enfoque en startups.            | Funcionalidad robusta,<br> integración con otras herramientas<br> empresariales, análisis predictivo.                                                                                                                                                                                                            | Interfaz intuitiva, amplia <br>accesibilidad, integración<br> con múltiples herramientas.                                                                                                          | Altamente personalizable,<br> excelente relación calidad-precio,<br> fuerte integración.                                                                                                                          |
+|                                            | Debilidades                                                   | Base de usuarios inicial limitada.            | Curva de aprendizaje<br> pronunciada para nuevos usuarios.                                                                                                                                                                                                                                                       | Limitaciones en funciones <br>avanzadas para la gestión<br> de proyectos complejos.                                                                                                                | Puede ser abrumador para <br>usuarios nuevos debido<br> a su vasta cantidad de funciones.                                                                                                                         |
+|                                            | Oportunidades                                                 | Expansión en mercados emergentes <br>y nuevas tecnologías.            | Expansión en mercados emergentes,<br> desarrollo de nuevas <br> funcionalidades de IA.                                                                                                                                                                                                                           | Expansión de integraciones <br>y nuevas funcionalidades<br> para grandes equipos.                                                                                                                  | Expansión en mercados globales, <br>mejoras continuas en <br>automatización y AI.                                                                                                                                 |
+|                                            | Amenazas                                                      | Competencia con herramientas <br>más establecidas y la necesidad <br>de mantenerse al día con la<br> evolución tecnológica.            | Competencia creciente con <br>herramientas más accesibles <br>y económicas.                                                                                                                                                                                                                                      | Competencia con<br> herramientas que ofrecen <br>más funciones por un costo<br> similar.                                                                                                           | La competencia con<br> herramientas establecidas <br>que tienen una base de<br> usuarios leal.                                                                                                                    |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
@@ -459,6 +466,25 @@ Duracion: 6:17
 Resumen:<br>
 La entrevista con María nos comenta que en su trabajo como líder de proyecto su principal responsabilidad es monitorear todas las operaciones y gestionarlas para lograr el óptimo desarrollo. Considera que las empresas deben empezar a utilizar nuevos programas para la gestión de proyecto, pues las que usan están quedando obsoletas. También nos cuenta de la importancia de que este nuevo programa debe ser intuitiva y fácil de usar, además de ser adaptable para cualquier dispositivo con acceso a internet. Nos comenta su interés de la IA en estos programas está relacionada con todos los logros que han logrado y que ella misma también usa cuando trabaja. Con su experiencia resalta que debe ser poner atención cuando busques una empresa que te ofrezca este producto, es importante que el software pueda adaptarse a sus necesidades y tenga la seguridad de que protegerá sus datos.
 
+
+ 3. Entrevista 3: <br>
+ Datos del entrevistado <br>
+ Nombre: Nora <br>
+ Apellidos: Castro Manrique<br>
+ Edad: 42 <br>
+ Distrito: Pueblo Libre <br>
+ 
+ ![Foto de entrevista](https://cdn.discordapp.com/attachments/1274759574087270442/1277138646398537790/image.png?ex=66cc138d&is=66cac20d&hm=9556920f3d0a0a1a265a357130bf8f88e6490ba54ab2eab73fc697ed90068d4d&)
+ 
+ URL: [Link de entrevista](https://drive.google.com/file/d/11xswJuEZQy51WRqAmZDu0KfjyF-6rV-F/view?usp=sharing "Entrevista 3") 
+
+ Inicio: 0:40<br>
+ Duracion: 5:39
+
+ Resumen:<br>
+La entrevista con Nora reveló aspectos importantes sobre la gestión y flujo de trabajo. Se destacó que el trabajo en equipo es fundamental para el éxito de un proyecto, y que contar con herramientas de gestión y seguimiento efectivas es crucial para mantener la coordinación y el progreso del equipo. Además, se considera que, tecnologías emergentes como la inteligencia artificial serían de mucha ayuda. En un futuro, se espera que este tipo de tecnologías sumadas a herramientas existentes puedan ayudar a su adaptación para diferentes modelos de negocio y a agilizar el trabajo.
+
+
 #### Segmento 2: Equipo de Desarrollo de Software
 
 1.  Entrevista 1: <br>
@@ -495,6 +521,27 @@ Duracion: 6:45
 Resumen:<br>
 La entrevista a Agustín nos cuenta de primera mano la experiencia como practicante y como las herramientas de gestión actuales influyen. Nos cuenta que su líder de proyecto, para seguir las metodologías Agiles, programa muchas reuniones donde en muchas se redunda en los mismos temas, y el preferiría otra forma de comunicación, problema que podría solucionarse con un programa de gestión. Menciona que una herramienta habitual es GitHub, pero lo considera poco intuitivo y difícil de dominar. Cree firmemente que es necesario una herramienta que ponga más atención en la interfaz de usuario, y a la facilidad de personalizarla.
 
+
+
+ 
+ 3. Entrevista 3: <br>
+ Datos del entrevistado <br>
+ Nombre: Rodrigo <br>
+ Apellidos: Acosa Ramirez<br>
+ Edad: 22 <br>
+ Distrito: San Miguel <br>
+ 
+ ![Foto de entrevista](https://cdn.discordapp.com/attachments/1274759574087270442/1277106218263117896/image.png?ex=66cbf559&is=66caa3d9&hm=cd17ba7cfe17024c2aeb05fbdb32b59deb98bebf9f3fdb1d2a09a4fae44adfa8&)
+ 
+ URL: [Link de entrevista](https://drive.google.com/file/d/1aZ94C1wixcfQNa_dZCZSkIKiBnpPf91i/view?usp=sharing "Entrevista 3") 
+
+ Inicio: 0:50<br>
+ Duracion: 10:19
+
+ Resumen:<br>
+La entrevista con Rodrigo, reveló aspectos clave sobre cómo percibe su entorno de trabajo y los desafíos que enfrenta. Se destacó que herramientas poco intuitivas y sin seguimiente constante pueden ralentizar el trabajo, además que la flexiblidad y adaptabilidad son muy importantes a la hora de acelerar el mismo. Aunque ha logrado adaptarse a las herramientas disponibles, considera que lo detallado con aterioridad limita su eficiencia. Rodrigo espera que en el futuro se desarrollen herramientas que también ofrezcan la flexibilidad necesaria para ajustarse a diferentes entornos y metodologías de trabajo, y que implementen tecnologías emergentes.
+
+
 ### 2.2.3. Análisis de entrevistas
 
 #### Análisis Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento
@@ -524,6 +571,152 @@ La entrevista a Agustín nos cuenta de primera mano la experiencia como practica
 
 ### 2.3.2. User Task Matrix
 
-### 2.3.3. User Journey Mapping
+# Comparación de Tareas: Fabricio vs. María
+
+| **Tarea**                                             | **FABRICIO Frecuencia** | **FABRICIO Importancia** | **MARÍA Frecuencia** | **MARÍA Importancia** |
+|-------------------------------------------------------|-------------------------------|-------------------------------|----------------------------|----------------------------|
+| Monitorear operaciones y gestionar proyectos         | A menudo                      | Alta                          | A menudo                   | Alta                       |
+| Evaluar y seleccionar software de gestión de proyectos| A veces                       | Alta                          | A veces                    | Alta                       |
+| Verificar la adaptabilidad y facilidad de uso del software | A veces                   | Alta                          | A veces                    | Alta                       |
+| Asegurarse de que el software tenga seguridad de datos | A veces                    | Alta                          | A veces                    | Alta                       |
+| Investigar sobre nuevas tecnologías e IA aplicadas a la gestión de proyectos | Mensual | Media                         | Mensual                    | Media                      |
+| Utilizar herramientas de desarrollo para colaboración | A menudo                      | Alta                          | A menudo                   | Alta                       |
+| Conducir capacitaciones sobre nuevas herramientas    | A veces                       | Media                         | A veces                    | Media                      |
+| Evaluar la precisión y fiabilidad de las herramientas usadas | Mensual                   | Alta                          | Mensual                    | Alta                       |
+| Adaptar herramientas a los modelos de negocio específicos | A veces                    | Alta                          | A veces                    | Alta                       |
+| Mantener un registro del avance de cada miembro del equipo | A menudo                    | Alta                          | A menudo                   | Alta                       |
+
+
+### 2.3.3. User Journey Mapping *
+
+#### User Journey Mapping - Líder o Gerente de Empresa de Desarrollo de Software
+XXX | Visualizacion | Obtencion | Funcionalidad| Uso
+--- | ------------- | --------- | -------------| ---
+User actions| Identifica problemas en la gestión de proyectos, como la falta de eficiencia o sobrecostos. | Revisa varias opciones y solicita demostraciones. | Coordina la implementación del servicio, asigna roles y responsabilidades. | Monitorea los resultados a través de paneles de control.
+Experience|  Preocupación por el rendimiento de los proyectos y la necesidad de mejorar la rentabilidad. | Toma decisiones basadas en la funcionalidad y costos. | Preocupación por el cambio en la cultura | Satisfacción al ver mejoras en la eficiencia y calidad de los proyectos.
+User expectations| Un servicio que aborde sus problemas específicos de manera eficaz. | Una herramienta intuitiva que pueda integrarse fácilmente con los sistemas actuales |  Una transición sin problemas, con un soporte técnico eficiente | Mejoras continuas en la productividad y rentabilidad.
+
+#### User Journey Mapping - Equipo de Desarrollo de Software
+
+XXX | Visualizacion | Obtencion | Funcionalidad| Uso
+--- | ------------- | --------- | -------------| ---
+User actions| Se da cuenta de que los procesos actuales son ineficientes. | Participa en las demostraciones o pruebas de la herramienta | Completa la capacitación requerida, configura la herramienta según sus necesidades | Utiliza la herramienta diariamente para gestionar tareas, colaborar con el equipo y cumplir con los plazos de los proyectos.
+Experience| Interés en cómo una nueva herramienta podría facilitar su trabajo. | Crítica de la herramienta basada en su experiencia | Curiosidad sobre cómo la nueva herramienta afectará su productividad | Aprecio por las mejoras en la gestión de proyectos.
+User expectations| Espera una nueva herramienta que simplifique su carga de trabajo . | Nueva herramienta sea fácil de aprender | Espera que la curva de aprendizaje sea corta |Espera que el servicio mejore la colaboracion.
 
 ### 2.3.4. Empathy Mapping
+
+
+# Segmento 1: María (Líder/Gerente de Proyecto)
+
+| **¿Qué Piensa y Siente?**                                                                 | **¿Qué Ve?**                                                                                              |
+|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+|  Necesita garantizar que todos los proyectos se gestionen eficazmente y que el equipo alcance los objetivos establecidos. |  Observa un entorno empresarial donde muchas empresas aún usan herramientas anticuadas. |
+|  Está interesada en nuevas tecnologías y en cómo pueden mejorar la gestión de proyectos. |  Ve que la competencia está adoptando nuevas tecnologías y herramientas más avanzadas. |
+|  Quiere un software intuitivo y adaptable que mejore la eficiencia del equipo y proteja los datos de la empresa. |  Nota una creciente integración de la inteligencia artificial en la gestión de proyectos. |
+|  Lidiar con herramientas obsoletas y encontrar soluciones que se adapten a las necesidades cambiantes de la empresa. | |
+
+| **¿Qué Dice y Hace?**                                                                 | **¿Qué Oye?**                                                                                                  |
+|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Habla sobre la necesidad de modernizar el software y la importancia de la seguridad de los datos. | Recibe comentarios de su equipo sobre la falta de funcionalidad en las herramientas actuales y las necesidades de capacitación. |
+|  Busca constantemente nuevas soluciones y herramientas que puedan integrarse y ser útiles para la empresa. |  Escucha sobre nuevas tecnologías y herramientas que podrían ser beneficiosas para su empresa. |
+
+| **Dolores**                                                                                       | **Ganancias**                                                                                                    |
+|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+|  Experimenta frustraciones con las herramientas obsoletas y la falta de opciones intuitivas que se adapten a sus necesidades. |  Una solución moderna y segura que facilite la gestión de proyectos y mejore la colaboración del equipo. |
+| Preocupada por la seguridad de los datos y la posible falta de protección que puedan ofrecer las herramientas actuales. |  La implementación exitosa de un software eficiente que permita al equipo alcanzar sus metas con mayor facilidad. |
+
+
+
+# Segmento 2: Fabricio (Equipo de Desarrollo de Software)
+
+
+| **¿Qué Piensa y Siente?** | **¿Qué Ve?** |
+|---------------------------|--------------|
+| Le preocupa que las herramientas actuales limiten la colaboración efectiva y el flujo de trabajo del equipo. |  Observa que muchas herramientas están desactualizadas y no cumplen con las expectativas actuales del desarrollo de software. |
+| Está interesado en herramientas que mejoren la eficiencia y precisión en el desarrollo de software. | Ve que otras empresas están usando herramientas más avanzadas y adaptativas. |
+| Desea trabajar con herramientas innovadoras que faciliten la colaboración y permitan un mejor seguimiento del progreso. |  Nota una necesidad creciente de herramientas que promuevan una colaboración más efectiva y un registro preciso del trabajo. |
+| Enfrenta desafíos al trabajar con herramientas que no se adaptan bien a las necesidades del equipo y a la falta de capacitación adecuada. | |
+
+| **¿Qué Dice y Hace?** | **¿Qué Oye?** |
+|-----------------------|--------------|
+|  Habla sobre la importancia de la precisión y fiabilidad de las herramientas y cómo estas impactan en su trabajo diario. | Escucha a sus compañeros expresar la necesidad de herramientas más actualizadas y la falta de eficacia de las herramientas actuales. |
+|  Participa en capacitaciones y busca herramientas que mejoren la colaboración y el seguimiento del progreso del equipo. |  Oye sobre nuevas soluciones y tecnologías que podrían ayudar a resolver problemas de colaboración y precisión. |
+
+| **Dolores** | **Ganancias** |
+|-------------|---------------|
+| **Frustraciones:** Frustrado por la falta de herramientas innovadoras que limiten la colaboración y el seguimiento del progreso. |  Herramientas de desarrollo que sean precisas, fiables, y que faciliten una colaboración efectiva. |
+| **Riesgos:** Preocupado por la falta de adaptación de las herramientas a los modelos de negocio y las necesidades específicas del equipo. |  Un entorno de trabajo más colaborativo y eficiente con herramientas que se adaptan a las necesidades del equipo. |
+
+
+### 2.3.5. As-is Scenario Mapping
+
+#### **Segmento 1:** Lider o gerente de empresa de desarrollo de software en crecimiento
+
+|Fases | Recibir un proyecto| Asignar tareas dentro del equipo| Realizar el seguimiento de los miembros | Evaluar el trabajo de los miembros tras culminado el proyecto |
+|-|-|-|-|-|
+| Doing| - Recibimos un proyecto por parte del área encargada <br> - Realizo una reunión con el equipo para evaluar el proyecto| - Asigno tareas especificas a diferentes miembros <br> - Ponemos plazos a los entregables| - Ingreso al repositorio o pregunto a los miembros como van <br> - Anoto los percances y errores que tiene cada miembro| - Una vez culminado el trabajo, reviso mis apuntes y veo que tal se desenvolvió cada miembro del equipo |
+| Thinking| - ¿Será que tenemos las habilidades necesarias para afrontar el proyecto? <br> - ¿Cómo puedo comunicar los objetivos de manera clara? | - Me toca confiar en las habilidades que algunos miembros dicen tener <br> - Espero que los plazos asignados sean realistas | - Ojalá estar hacendo un seguimiento eficiente <br> - Espero que los miembros no mientan sobre sus avances |  - Quiero dar una retroalimentación constructiva basada en hechos reales|
+| Feeling|- Presión por dar a entender de manera clara los objetivos y proyecto en general <br> - Confianza en el equipo, pero preocupación por los desafios| - Responsabilidad por asignar las tareas a los miembros correctos <br> - Presión por dejar en claro las tareas a cada miembro| - Frustración cuando los miembros no siguen el ritmo de trabajo <br> - Dudas de si algun miembro mintió acerca de su avance|- Comprometido con el crecimiento del equipo y su mejora continua <br> - Dudas sobre si un miembro comete habitualmente los mismos errores|
+
+#### **Segmento 2:** Miembros de un equipo de Desarrollo de Software 
+
+|Fases | Recibir un proyecto| Asignar tareas dentro del equipo| Realizar el seguimiento de los miembros | Evaluar el trabajo de los miembros tras culminado el proyecto |
+|-|-|-|-|-|
+| **Doing**| - Recibimos un proyecto por parte del área encargada <br> - Realizo una reunión con el equipo para evaluar el proyecto| - Asigno tareas especificas a diferentes miembros <br> - Ponemos plazos a los entregables| - Ingreso al repositorio o pregunto a los miembros como van <br> - Anoto los percances y errores que tiene cada miembro| - Una vez culminado el trabajo, reviso mis apuntes y veo que tal se desenvolvió cada miembro del equipo |
+| **Thinking**| - ¿Será que tenemos las habilidades necesarias para afrontar el proyecto? <br> - ¿Cómo puedo comunicar los objetivos de manera clara? | - Me toca confiar en las habilidades que algunos miembros dicen tener <br> - Espero que los plazos asignados sean realistas | - Ojalá estar hacendo un seguimiento eficiente <br> - Espero que los miembros no mientan sobre sus avances |  - Quiero dar una retroalimentación constructiva basada en hechos reales|
+| **Feeling**|- Presión por dar a entender de manera clara los objetivos y proyecto en general <br> - Confianza en el equipo, pero preocupación por los desafios| - Responsabilidad por asignar las tareas a los miembros correctos <br> - Presión por dejar en claro las tareas a cada miembro| - Frustración cuando los miembros no siguen el ritmo de trabajo <br> - Dudas de si algun miembro mintió acerca de su avance|- Comprometido con el crecimiento del equipo y su mejora continua <br> - Dudas sobre si un miembro comete habitualmente los mismos errores|
+
+### 2.4. Ubiquitous Language
+
+## Capítulo III: Requirements Specification
+
+### 3.1. To-Be Scenario Mapping
+
+### **Segmento 1:** Lider o gerente de proyectos de software 
+
+| Fases | Recibir un proyecto | Asignar tareas dentro del equipo | Realizar el seguimiento de los miembros | Evaluar el trabajo de los miembros tras culminado el proyecto |
+|-|-|-|-|-|
+| **Doing** | - Recibo el proyecto a través de ManageWise con todos los detalles y documentación accesibles <br> - Realizo una reunión virtual en donde se establecen claramente los obetivos y herramientas ofrecidas por la plataforma | - Utilizo ManageWise y esta me sugiere automáticamente la mejor distribución de tareas basada en habilidades y disponibilidad de los miembros <br> - Establezco plazos realistas con la ayuda de la plataforma | - Monitorizo el progreso del equipo  a través de dashboards personalizados <br> - Las alertas automáticas me notifican sobre bloqueos y retrasos | - Utilizo la plataforma para analizar el rendimiento de los miembros basado en datos cuantitativos <br> - Ofrezco retroalimentación constructiva con ayuda de los datos proporcionados por ManageWise |
+| **Thinking** | - Tengo la seguridad de que el equipo cuenta con todas las herramientas y recursos necesarios| - Estoy seguro de que las tareas se han asignado de la mejor manera posible | - Confío en los datos y análisis de la plataforma para realizar un seguimiento efectivo | - Tengo la confianza de que la evaluación a los miembros es justa |
+| **Feeling** | - Me siento confiado sobre la claridad de los objetivos comunicados y la capacidad del equipo <br> - Motivado porque las herramientas simplifican la planificación | - Tranquilidad al saber que las tareas están bien distribuidas y los plazos son realistas | - Menor estrés gracias a la visibilidad constante del progreso <br> - Seguridad en la gestión efectiva del proyecto | Satisfacción al ver mejoras continuas basadas en retroalimentación |
+
+
+### **Segmento 2:** Miembro de un equipo de desarrollo de software 
+
+| Fases | Recibir las tareas del proyecto | Colaborar con el equipo | Desarrollar y probar el código | Entregar el código final y participar en la retrospectiva |
+|-|-|-|-|-|
+| **Doing** | - Recibo las tareas asignadas directamente en ManageWise, la cual incluye la documentación y requisitos | - Me coordino con otros miembros del equipo a través de mensajes desde la plataforma <br> - Accedo a un tablero que muestra el estado del trabajo de todos los miembros del equipo | - Desarrollo y el código y subo una versión preeliminar para ser analizada por el equipo <br> - Accedo a recomendaciones basadas en IA para optimizar el código | - Entrego el código final a través de la plataforma, que también automatiza las revisiones y pruebas finales <br> - Participo en una retroalimentación del equipo basada en datos recopilados durante el proyecto |
+| **Thinking** | - Me queda claro lo que se espera de mi y mis tareas | - Estoy bien alineado con el resto del equipo <br> - ¿Hay alguna área donde puedo colaborar más eficientemente? | - Aprovecho al máximo las herramientas para mejorar la calidad del código | - Estoy listo para recibir una retroalimentación valiosa <br> - ¿Qué aprendizajes puedo aplicar al próximo proyecto? |
+| **Feeling** | - Confianza en mi comprensión del proyecto y las tareas asignadas <br> - Seguridad en mi capacidad para entregar resultados de calidad | - Motivado por la colaboración fluida | - Satisfacción por el uso de herramientas que mejoran la calidad del trabajo <br> - Tranquilidad al saber que los posibles errores se detectan tempranamente | - Orgullo del trabajo presentado y entusiasmado por las oportunidades de mejora | 
+
+### 3.2. User Stories
+
+
+|User Storiy ID| Título | Descripción |  
+|-|-|-|
+|HU01| Grafico radial de habilidades | Como lider de equipo, quiero que la plataforma refleje un gráfico radial sobre las debilidades y fortalezas de cada integrante |
+|HU02| Integración de cronogramas | Como lider de equipo, quiero poder sincronizar automáticamente fechas y actividades importantes  |
+|HU03| Alertas ante inactividad o paso de fecha limite | Como lider de equipo, quiero que la plataforma me mande notificaciones cuando algun miembro este inactivo o se haya pasado la fecha límite de entrega   |
+|HU04| Implementación de mensajes directos | Como usuario miembro de un equipo de software, quiero poder enviar mensajes directos al lider y a otros miembros  |
+
+### 3.3. Impact Mapping 
+
+Metas |Actores | Impacto | Entregables
+----- |------- | ------- | -----------
+x| Líder o Gerente de Empresa | Mejora en la productividad | Implementacion de notificaciones y alertas personalizadas
+x|  | Aumento en la rentabilidad de la empresa | Implementacion de automatización de Procesos
+Elevar la eficiencia, calidad y rentabilidad de los proyectos en startups de desarrollo de software mediante la optimización de sus procesos de gestión de iniciativas| Equipo de Desarrollo de Software | Mejora de la colaboracion en grupos de trabajo | Creacion  de Tareas transparentes
+x|  | Reduccion del tiempo de organizacion en proyectos | Implementacion de cronogramas y calendarios integrados
+x| | Optimizacion del tiempo en tareas diarias | Integración de documentos de trabajo en tiempo real
+
+### 3.4. Product Backlog
+
+|#Orden|User Story ID|Título|Descripción|Story Points <br> (1/2/3/5/8)|
+|-|-|-|-|-|
+|1|HU01|Grafico radial de habilidades|Como lider de equipo, quiero que la plataforma refleje un gráfico radial sobre las debilidades y fortalezas de cada integrante|5|
+|2|HU02|Integración de cronogramas	| Como lider de equipo, quiero poder sincronizar automáticamente fechas y actividades importantes|5| 
+|3|HU03|Alertas ante inactividad o paso de fecha limite	|Como lider de equipo, quiero que la plataforma me mande notificaciones cuando algun miembro este inactivo o se haya pasado la fecha límite de entrega|2| 
+|4|HU04|Implementación de mensajes directos|Como usuario miembro de un equipo de software, quiero poder enviar mensajes directos al lider y a otros miembros|3| 
+
+	
