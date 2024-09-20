@@ -711,3 +711,67 @@ Además, se destaca la importancia de contar con herramientas innovadoras que of
 | 2      | HU02          | Integración de cronogramas                      | Como lider de equipo, quiero poder sincronizar automáticamente fechas y actividades importantes                                                       | 5                             |
 | 3      | HU03          | Alertas ante inactividad o paso de fecha limite | Como lider de equipo, quiero que la plataforma me mande notificaciones cuando algun miembro este inactivo o se haya pasado la fecha límite de entrega | 2                             |
 | 4      | HU04          | Implementación de mensajes directos             | Como usuario miembro de un equipo de software, quiero poder enviar mensajes directos al lider y a otros miembros                                      | 3                             |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### 5.2.1.4 Testing Suite Evidence for Sprint Review.
+
+| Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
+| --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 4823259   | Initial commit           | Created the README file. | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | a58791b   | feat: added US43 gherkin | feat: added US43 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 29d0d8e   | feat: added US44 gherkin | feat: added US44 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 9c68a0f   | feat: added US45 gherkin | feat: added US45 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 92ff505   | feat: added US46 gherkin | feat: added US46 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 6d40835   | feat: added US47 gherkin | feat: added US47 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | ab19556   | feat: added US48 gherkin | feat: added US48 gherkin | 19/09/2024              |
+
+
+#### 5.2.1.4 Testing Suite Evidence for Sprint Review.
+
+| Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
+| --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 4823259   | Initial commit           | Created the README file. | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | a58791b   | feat: added US43 gherkin | feat: added US43 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 29d0d8e   | feat: added US44 gherkin | feat: added US44 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 9c68a0f   | feat: added US45 gherkin | feat: added US45 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 92ff505   | feat: added US46 gherkin | feat: added US46 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 6d40835   | feat: added US47 gherkin | feat: added US47 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | ab19556   | feat: added US48 gherkin | feat: added US48 gherkin | 19/09/2024              |
+
+
+#### 5.2.1.4 Testing Suite Evidence for Sprint Review.
+
+| Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
+| --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 4823259   | Initial commit           | Created the README file. | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | a58791b   | feat: added US43 gherkin | feat: added US43 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 29d0d8e   | feat: added US44 gherkin | feat: added US44 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 9c68a0f   | feat: added US45 gherkin | feat: added US45 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 92ff505   | feat: added US46 gherkin | feat: added US46 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 6d40835   | feat: added US47 gherkin | feat: added US47 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | ab19556   | feat: added US48 gherkin | feat: added US48 gherkin | 19/09/2024              |
+
+
+#### 5.2.1.4 Testing Suite Evidence for Sprint Review.
+
+| Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
+| --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 4823259   | Initial commit           | Created the README file. | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | a58791b   | feat: added US43 gherkin | feat: added US43 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 29d0d8e   | feat: added US44 gherkin | feat: added US44 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 9c68a0f   | feat: added US45 gherkin | feat: added US45 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 92ff505   | feat: added US46 gherkin | feat: added US46 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 6d40835   | feat: added US47 gherkin | feat: added US47 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | ab19556   | feat: added US48 gherkin | feat: added US48 gherkin | 19/09/2024              |
